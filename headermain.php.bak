@@ -1,0 +1,93 @@
+ <nav class="template-main-menu">
+                  <ul class="menu">
+                  
+                     <strong> <a href="index-2.html">Home</a></strong>
+                   
+				   
+				   
+                    <li class="menu-item menu-item-has-children">
+                      <a href="">About Us</a>
+                      <ul class="sub-menu">
+					  
+					  <li class="menu-item">
+                          <a href="about.php">About RCN Missionary School</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="vision.php">Vision & Mission</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="provost.php">Office of the Provost</a>
+                        </li>
+                       
+                        <li class="menu-item">
+                          <a href="">Book a visit</a>
+                        </li>
+                       
+                     
+                      </ul>
+                    </li>
+                    <li class="menu-item menu-item-has-children">
+                      <a href="">Academics</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item">
+                          <a href="explore.php">Explore Programs</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="online.php">Online Programs</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="oncampus.php">On Campus</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="tuition.php">Tuition & Scholarship </a>
+                        </li>
+                       
+                      </ul>
+                    </li>
+                    <li class="menu-item menu-item-has-children">
+                      <a href="">Admissions</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item">
+                          <a href="">Apply Now</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="tuition.php">Tuition & Scholarship </a>
+                        </li>
+                       
+						
+						 <li class="menu-item">
+                          <a href="calender.php">Academic Calender</a>
+                        </li>
+                      </ul>
+                    </li>
+                    
+                    <li class="menu-item menu-item-has-children">
+                      <a href="">Life at RCN theology</a>
+                      <ul class="sub-menu">
+                        
+                        <li class="menu-item">
+                          <a href="">The Chapel </a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="">RCN Embassy</a>
+                        </li>
+						
+						 <li class="menu-item">
+                          <a href="">Health & Wellness</a>
+                        </li>
+						<li class="menu-item">
+                          <a href="">Housing & Hostels</a>
+                        </li>
+                      </ul>
+                    </li>
+				   
+				   
+				   <li class="menu-item">
+                      <a href="">Partnership
+					  </a>
+                    </li>
+					<li class="menu-item">
+                      <a href="">Contact us</a>
+                    </li>
+                  </ul>
+                </nav>

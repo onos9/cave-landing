@@ -1,0 +1,1351 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  
+
+<head>
+    <!-- Meta Data -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Adullam - RCN Theological Seminary</title>
+    <meta name="description" content="" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="media/favicon.png" />
+
+    <!-- Dependencies -->
+    <link
+      rel="stylesheet"
+      href="dependencies/bootstrap/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="dependencies/animate/animate.min.css" />
+    <link rel="stylesheet" href="dependencies/fontawesome/css/all.min.css" />
+    <link rel="stylesheet" href="dependencies/flaticon/font/flaticon.css" />
+    <link rel="stylesheet" href="dependencies/slick/slick.css" />
+    <link
+      rel="stylesheet"
+      href="dependencies/magnific-popup/css/magnific-popup.css"
+    />
+    <link
+      rel="stylesheet"
+      href="dependencies/swiper/css/swiper.min.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="dependencies/datetimepicker/jquery.datetimepicker.css"
+    />
+    <link
+      rel="stylesheet"
+      href="dependencies/select2/css/select2.min.css"
+      type="text/css"
+    />
+    <!-- Site Stylesheet -->
+    <link rel="stylesheet" href="assets/css/app.css" />
+    <!-- Google Web Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400&amp;display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+    <div id="preloader" class="preloader">
+      <div class="loaders loader-1">
+        <div class="loader-outter"></div>
+        <div class="loader-inner"></div>
+      </div>
+    </div>
+    <div id="wrapper" class="wrapper">
+      <!--=====================================-->
+      <!--=     		Header Start     		=-->
+      <!--=====================================-->
+      <header class="header-style-4 sticky-on">
+        <div id="topbar-wrap" class="topbar style-4">
+          <div class="container">
+            <div class="topbar-row">
+              <ul class="left-box inline-list align-items-center">
+                <li><i class="fas fa-phone-alt"></i> +234 802 216 4432 </li>
+                <li>
+                  <i class="fas fa-map-marker-alt"></i> #4 Remnant Avenue,
+opposite State Library,Makurdi, Benue State.
+                </li>
+                <li><i class="far fa-clock"></i> Mon - Sat 8.00 - 4.00 GMT+1</li>
+              </ul>
+              <ul class="right-box inline-list">
+                <li class="social align-items-center">
+                  <a href="javascript:void(0);"
+                    ><i class="fab fa-facebook-f"></i
+                  ></a>
+                  <a href="javascript:void(0);"
+                    ><i class="fab fa-twitter"></i
+                  ></a>
+                  <a href="javascript:void(0);"
+                    ><i class="fab fa-instagram"></i
+                  ></a>
+                  <a href="javascript:void(0);"
+                    ><i class="fab fa-pinterest-p"></i
+                  ></a>
+                  <a href="javascript:void(0);"
+                    ><i class="fab fa-youtube"></i
+                  ></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div id="navbar-wrap" class="navbar-wrap">
+          <div class="header-menu">
+            <div class="container">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="site-branding">
+                  <a href="index-2.html" class="logo"
+                    ><img
+                      src="media/logo-light.png"
+                      alt="Logo"
+                      width="101"
+                      height="37"
+                  /></a>
+                </div>
+                <nav class="template-main-menu">
+                  <ul class="menu">
+                  
+                     <strong> <a href="index-2.html">Home</a></strong>
+                   
+				   
+				   
+                    <li class="menu-item menu-item-has-children">
+                      <a href="about.html">About Us</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item">
+                          <a href="vision.html">Vision & Mission</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="provost.html">Office of the Provost</a>
+                        </li>
+                       
+                        <li class="menu-item">
+                          <a href="">Book a visit</a>
+                        </li>
+                       
+                     
+                      </ul>
+                    </li>
+                    <li class="menu-item menu-item-has-children">
+                      <a href="index-2.html">Academics</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item">
+                          <a href="about.html">Explore Programs</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="event.html">Online Programs</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="become-instructor.html">On Campus</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="instructor.html">Tuition & Scholarship </a>
+                        </li>
+                       
+                      </ul>
+                    </li>
+                    <li class="menu-item menu-item-has-children">
+                      <a href="blog-grid.html">Admissions</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item">
+                          <a href="blog-grid.html">Apply Now</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="blog-list.html">Tuition & Scholarship </a>
+                        </li>
+                       
+						
+						 <li class="menu-item">
+                          <a href="single-blog.html">Academic Calender</a>
+                        </li>
+                      </ul>
+                    </li>
+                    
+                    <li class="menu-item menu-item-has-children">
+                      <a href="blog-grid.html">Life at RCN theology</a>
+                      <ul class="sub-menu">
+                        
+                        <li class="menu-item">
+                          <a href="blog-list.html">The Chapel </a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="single-blog.html">RCN Embassy</a>
+                        </li>
+						
+						 <li class="menu-item">
+                          <a href="single-blog.html">Health & Wellness</a>
+                        </li>
+						<li class="menu-item">
+                          <a href="single-blog.html">Housing & Hostels</a>
+                        </li>
+                      </ul>
+                    </li>
+				   
+				   
+				   <li class="menu-item">
+                      <a href="contact.html">Partnership
+					  </a>
+                    </li>
+					<li class="menu-item">
+                      <a href="contact.html">Contact us</a>
+                    </li>
+                  </ul>
+                </nav>
+            
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div
+        class="rt-header-menu mean-container position-relative"
+        id="meanmenu"
+      >
+        <div class="topbar style-1">
+          <div class="topbar-row for-mobile-menu">
+            <ul
+              class="
+                left-box
+                inline-list
+                align-items-center
+                justify-content-center
+                w-100
+              "
+            >
+              <li><i class="fas fa-phone-alt"></i> +1 212-226-3126</li>
+              <li>
+                <i class="fas fa-map-marker-alt"></i> 457 Mott Street, NY 10013
+              </li>
+              <li><i class="far fa-clock"></i> Mon - Sat 8.00 - 18.00</li>
+            </ul>
+          </div>
+        </div>
+        <div class="mean-bar">
+          <a href="index-2.html">
+            <img
+              src="media/logo-mobile.png"
+              alt="Logo"
+              width="80"
+              height="29"
+            />
+          </a>
+          <div class="mean-bar--right">
+            <div class="actions search">
+              <a href="#template-search" class="item-icon" title="Search">
+                <i class="fas fa-search"></i>
+              </a>
+            </div>
+            <div class="actions user">
+              <a href="profile.html"><i class="flaticon-user"></i></a>
+            </div>
+            <span class="sidebarBtn">
+              <span class="bar"></span>
+              <span class="bar"></span>
+              <span class="bar"></span>
+              <span class="bar"></span>
+            </span>
+          </div>
+        </div>
+        <div class="rt-slide-nav">
+          <div class="offscreen-navigation">
+            <nav class="menu-main-primary-container">
+              <ul class="menu">
+                <li class="list menu-item-parent menu-item-has-children">
+                  <a class="animation" href="https://www.radiustheme.com/demo/html/edhub/home-main.html">Home</a>
+                  <ul class="main-menu__dropdown sub-menu">
+                    <li><a href="index-2.html">Vision & Mission</a></li>
+                    <li><a href="index2.html">Office of the Provost</a></li>
+					 <li><a href="index2.html">Adullam Administration</a></li>
+                    <li><a href="index3.html">Visit information</a></li>
+                    <li><a href="index4.html">Virtual Tour</a></li>
+                  </ul>
+                </li>
+                <li class="list menu-item-parent menu-item-has-children">
+                  <a class="animation" href="https://www.radiustheme.com/demo/html/edhub/home-main.html">Courses</a>
+                  <ul class="main-menu__dropdown sub-menu">
+                    <li><a href="course1.html">Course Style 1</a></li>
+                    <li><a href="course2.html">Course Style 2</a></li>
+                    <li><a href="course3.html">Course Style 3</a></li>
+                    <li><a href="course4.html">Course Style 4</a></li>
+                    <li><a href="category.html">Category Page</a></li>
+                    <li><a href="single-course1.html">Course Single 1</a></li>
+                    <li><a href="single-course2.html">Course Single 2</a></li>
+                    <li><a href="single-course3.html">Course Single 3</a></li>
+                  </ul>
+                </li>
+                <li class="list menu-item-parent menu-item-has-children">
+                  <a class="animation" href="https://www.radiustheme.com/demo/html/edhub/home-main.html">Pages</a>
+                  <ul class="main-menu__dropdown sub-menu">
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="event.html">Event</a></li>
+                    <li>
+                      <a href="become-instructor.html">Become Instructor</a>
+                    </li>
+                    <li><a href="instructor.html">Instructor</a></li>
+                    <li><a href="meeting.html">Zoom Meeting</a></li>
+                    <li><a href="profile.html">Profile</a></li>
+                    <li><a href="single-event.html">Events Single</a></li>
+                    <li><a href="membership-plan.html">Membership Plans</a></li>
+                    <li><a href="faq.html">Faq</a></li>
+                    <li><a href="404.html">404</a></li>
+                  </ul>
+                </li>
+                <li class="list menu-item-parent menu-item-has-children">
+                  <a class="animation" href="https://www.radiustheme.com/demo/html/edhub/home-main.html">Blog</a>
+                  <ul class="main-menu__dropdown sub-menu">
+                    <li><a href="blog-grid.html">Blog Grid</a></li>
+                    <li><a href="blog-list.html">Blog List</a></li>
+                    <li><a href="single-blog.html">Blog Single</a></li>
+                  </ul>
+                </li>
+                <li class="list menu-item-parent menu-item-has-children">
+                  <a class="animation" href="https://www.radiustheme.com/demo/html/edhub/home-main.html">Shop</a>
+                  <ul class="main-menu__dropdown sub-menu">
+                    <li><a href="shop.html">Shop</a></li>
+                    <li><a href="single-shop.html">Shop Single</a></li>
+                  </ul>
+                </li>
+                <li class="list menu-item-parent">
+                  <a class="animation" href="contact.html">Contact us</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <!--=====================================-->
+      <!--=     	 	Header End      		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	Hero Start      		=-->
+      <!--=====================================-->
+      <section class="main-banner-wrap-style-4">
+        <div class="swiper-container banner-figure">
+          <div class="swiper-wrapper">
+           
+            <div
+              class="swiper-slide"
+              style="background-image: url(media/slide/1.png)"
+            ></div>
+            <div
+              class="swiper-slide"
+              style="background-image: url(media/slide/3.png)"
+            ></div>
+            <div
+              class="swiper-slide"
+              style="background-image: url(media/slide/4.png)"
+            ></div>
+            <div
+              class="swiper-slide"
+              style="background-image: url(media/slide/5.png)"
+            ></div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+        <div class="swiper-container banner-text">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="container text-center">
+              <br><br> <br> <h1 class=""  style="color:white;"
+				
+				>
+				
+			<br><br>ADULLAM - RCN Theological Seminary</h1>
+                <p style="color:white;" >
+               <strong>  The RCN Bible Seminary (Adullam)  is a ministry training program designed with a learning
+environment that has an intense atmosphere of Heaven, accompanied with Spiritual impartations.
+It is a training and equipping that is imparting, intellectual, and rigorous</strong>
+                </p>
+                <div class="btn-wrap">
+                  <a href="contact.html" class="btn-fill style-1"
+                    >Enroll Now<i
+                      class="fas fa-long-arrow-alt-right"
+                    ></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="container text-center">
+                <h1 class="title">2 Get Control of Your Life for serious</h1>
+                <p class="description">
+                  Grursus mal suada faci lisis Lorem ipsum dolarorit fadolorit
+                  to the consectetur elit.
+                </p>
+                <div class="btn-wrap">
+                  <a href="contact.html" class="btn-fill style-1"
+                    >Start 7 Days Free Trial<i
+                      class="fas fa-long-arrow-alt-right"
+                    ></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="container text-center">
+                <h1 class="title">3 Get Control of Your Life for serious</h1>
+                <p class="description">
+                  Grursus mal suada faci lisis Lorem ipsum dolarorit fadolorit
+                  to the consectetur elit.
+                </p>
+                <div class="btn-wrap">
+                  <a href="contact.html" class="btn-fill style-1"
+                    >Start 7 Days Free Trial<i
+                      class="fas fa-long-arrow-alt-right"
+                    ></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="container text-center">
+                <h1 class="title">4 Get Control of Your Life for serious</h1>
+                <p class="description">
+                  Grursus mal suada faci lisis Lorem ipsum dolarorit fadolorit
+                  to the consectetur elit.
+                </p>
+                <div class="btn-wrap">
+                  <a href="contact.html" class="btn-fill style-1"
+                    >Start 7 Days Free Trial<i
+                      class="fas fa-long-arrow-alt-right"
+                    ></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="container text-center">
+                <h1 class="title">5 Get Control of Your Life for serious</h1>
+                <p class="description">
+                  Grursus mal suada faci lisis Lorem ipsum dolarorit fadolorit
+                  to the consectetur elit.
+                </p>
+                <div class="btn-wrap">
+                  <a href="contact.html" class="btn-fill style-1"
+                    >Start 7 Days Free Trial<i
+                      class="fas fa-long-arrow-alt-right"
+                    ></i
+                  ></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--=====================================-->
+      <!--=     	 	 Hero End       		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	Category Start     		=-->
+      <!--=====================================-->
+      <section class="category-wrap-style-3">
+        <div class="container">
+          <div class="row no-gutters">
+            <div class="col-lg-4 child-item">
+              <div class="category-box style-3">
+                <div class="figure-box">
+                  <img
+                    src="media/category/category1.jpg"
+                    alt="Category"
+                    width="690"
+                    height="372"
+                  />
+                </div>
+                <div class="content-box">
+                  <div class="top-content">
+                    <div class="icon-box">
+                      <i class="flaticon-presentation"></i>
+                    </div>
+                    <h3 class="title">On-Campus Admission.
+
+</h3>
+                  </div>
+                  <div class="bottom-content">
+                    <p class="description">
+                   The On-Campus option is a full residency program that offers a Diploma in Theology and Ministry.<br><br>
+
+                    </p>
+                    <a href="about.html" class="item-btn btn-fill style-2"
+                      >Learn More</a
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 child-item">
+              <div class="category-box style-3">
+                <div class="figure-box">
+                  <img
+                    src="media/category/category2.jpg"
+                    alt="Category"
+                    width="690"
+                    height="372"
+                  />
+                </div>
+                <div class="content-box">
+                  <div class="top-content">
+                    <div class="icon-box">
+                      <i class="flaticon-ebook"></i>
+                    </div>
+                    <h3 class="title">Online Admission Option</h3>
+                  </div>
+                  <div class="bottom-content">
+                    <p class="description">
+                      Our Online program was created in response to the global needs for spiritual training and
+equipping of those who cannot make it for the residency On-Campus option.
+                    </p>
+                    <a href="about.html" class="item-btn btn-fill style-2"
+                      >Learn more</a
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 child-item">
+              <div class="category-box style-3">
+                <div class="figure-box">
+                  <img
+                    src="media/category/category3.jpg"
+                    alt="Category"
+                    width="690"
+                    height="372"
+                  />E
+                </div>
+                <div class="content-box">
+                  <div class="top-content">
+                    <div class="icon-box">
+                      <i class="flaticon-gym-equipment"></i>
+                    </div>
+                    <h3 class="title">Student Portal</h3>
+                  </div>
+                  <div class="bottom-content">
+                    <p class="description">
+                    Login into your portal dashboard with your email address and password.<br><br><br><br>
+                    </p>
+                   
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--=====================================-->
+      <!--=     	 	 Category End      		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	Feature Start     		=-->
+      <!--=====================================-->
+      <section class="feature-wrap-style-2 motion-effects-wrap">
+        <div class="container">
+          <div class="section-heading style-8">
+            <h2 class="title">
+              Access An Affordable Education &amp; Pursue Your Calling.
+            </h2>
+          </div>
+          <div class="row">
+            <div class="col-xl-6 col-12">
+              <div class="feature-box style-2">
+                <div class="figure-box">
+                  <div
+                    class="mask-box wow fadeInRight animated"
+                    data-wow-duration="1s"
+                    data-wow-delay="0.1s"
+                  >
+                    <img
+                      src="media/banner/banner18b.jpg"
+                      alt="Banner"
+                      width="1920"
+                      height="1920"
+                    />
+                  </div>
+                  <ul class="block-list shape-list">
+                    <li
+                      class="shape1 wow fadeInLeft animated"
+                      data-wow-duration="1s"
+                      data-wow-delay="0.5s"
+                    >
+                      <img
+                        class="motion-effects1"
+                        src="media/elements/element49.png"
+                        alt="Element"
+                        width="84"
+                        height="84"
+                      />
+                    </li>
+                    <li
+                      class="shape2 wow fadeInLeft animated"
+                      data-wow-duration="1s"
+                      data-wow-delay="0.7s"
+                    >
+                      <img
+                        class="motion-effects3"
+                        src="media/elements/element50.png"
+                        alt="Element"
+                        width="322"
+                        height="322"
+                      />
+                    </li>
+                    <li
+                      class="shape3 wow fadeInRight animated"
+                      data-wow-duration="1s"
+                      data-wow-delay="0.9s"
+                    >
+                      <img
+                        class="motion-effects4"
+                        src="media/elements/element51.png"
+                        alt="Element"
+                        width="131"
+                        height="109"
+                      />
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-6 col-12 d-flex align-items-center">
+              <div class="row gutters-3">
+                <div class="col-md-6 col-12 child-item">
+                  <div class="feature-box style-2 color-1">
+                    <div class="content-box">
+                      <div class="icon-box">
+                        <i class="flaticon-teacher-giving-lecture"></i>
+                      </div>
+                      <h3 class="title">Scholarship</h3>
+                      <p class="description">
+                        Grursus mal suada faci lisis that ipsum ameti consecte.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-12 child-item">
+                  <div class="feature-box style-2 color-2">
+                    <div class="content-box">
+                      <div class="icon-box">
+                        <i class="flaticon-shopping-list"></i>
+                      </div>
+                      <h3 class="title">Explore programs</h3>
+                      <p class="description">
+                        Grursus mal suada faci lisis that ipsum ameti consecte.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-12 child-item">
+                  <div class="feature-box style-2 color-3">
+                    <div class="content-box">
+                      <div class="icon-box">
+                        <i class="flaticon-alarm-clock"></i>
+                      </div>
+                      <h3 class="title">Admission </h3>
+                      <p class="description">
+                        Grursus mal suada faci lisis that ipsum ameti consecte.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-12 child-item">
+                  <div class="feature-box style-2 color-4">
+                    <div class="content-box">
+                      <div class="icon-box">
+                        <i class="flaticon-manufacturing"></i>
+                      </div>
+                      <h3 class="title">Student Portal</h3>
+                      <p class="description">
+                        Grursus mal suada faci lisis that ipsum ameti consecte.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--=====================================-->
+      <!--=     	 	 Feature End      		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	Course Start     		=-->
+      <!--=====================================-->
+   
+      <!--=====================================-->
+      <!--=     	 	 Course End      		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	About Start      		=-->
+      <!--=====================================-->
+     
+      <!--=====================================-->
+      <!--=     	 	 About End       		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	About Start      		=-->
+      <!--=====================================-->
+      
+      <!--=====================================-->
+      <!--=     	 	 About End       		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	Event Start      		=-->
+      <!--=====================================-->
+           <section class="team-wrap-style-1">
+        <div class="container">
+          <div class="section-heading style-1">
+            <h2 class="title">Office of the Provost</h2>
+          </div>
+          <div class="row">
+<div
+              class="col-xl-6 col-12 wow fadeInLeft animated"
+              data-wow-duration="1s"
+              data-wow-delay="0.1s"
+            >
+              <div class="team-box style-1">
+                <div class="figure-box">
+                  <img
+                    src="provost.jpg"
+                    alt="Team"
+                    width="930"
+                    height="1028"
+                  />
+                </div>
+                <div class="content-box">
+                  <h3 class="title">
+                    <a href="profile.html">Rev. Daniel Ogidi</a>
+                  </h3>
+                  <p class="sub-title">Provost</p>
+               
+                </div>
+              </div>
+            </div>
+           
+         <div
+              class="col-xl-6 col-12 wow fadeInLeft animated"
+              data-wow-duration="1s"
+              data-wow-delay="0.1s"
+            >
+              <div class="team-box style-1">
+            <h6 class="description"><br>  <h3 class="title">Welcome To Adullam.</h3>
+The school is called RCN Theological Seminary - Adullam, is a ministry training program designed with a learning environment that has an intense atmosphere of Heaven, accompanied with Spiritual impartations. It is a training and equipping that is imparting, intellectual, and rigorous. 
+A program characteristic of an intense academic rigour alongside a high spiritual engagement.                  </h6
+              
+              </div>
+            </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--=====================================-->
+      <!--=     	 	 Event End       		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=        Testimonial Start     	 	=-->
+      <!--=====================================-->
+      <section class="testimonial-wrap-style-4">
+        <div class="container">
+          <div class="section-heading style-9">
+            <h2 class="title"> Testimonials</h2>
+          </div>
+          <div class="swiper-container testimonial-carousel">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="testimonial-box style-4">
+                  <div class="icon-box">
+                    <i class="flaticon-quote"></i>
+                  </div>
+                  <div class="figure-box">
+                    <img
+                      src="nicole.jpeg"
+                      alt="Testimonial"
+                      width="70"
+                      height="70"
+                    />
+                  </div>
+                  <span class="rating-for">Nicole</span>
+                  <ul class="testimonial-rating inline-list">
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                  </ul>
+                  <p class="description">
+                    I had had previous experiences that made me believe God hated me and was trying to kill me. I was always afraid trying so hard to please him and know. At Adullam, I learned so much about God that I knew I was being lied to. I learned that God is love and he truly desires us to know him and fellowship with him. Adullam was truly life-changing
+                  </p>
+                  <h3 class="title">Nicole</h3>
+                  <p class="designation">Texas,USA</p>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="testimonial-box style-4">
+                  <div class="icon-box">
+                    <i class="flaticon-quote"></i>
+                  </div>
+                  <div class="figure-box">
+                    <img
+                      src="oluwa.jpg"
+                      alt="Testimonial"
+                      width="70"
+                      height="70"
+                    />
+                  </div>
+                  <span class="rating-for">Oluwabunmi Israel</span>
+                  <ul class="testimonial-rating inline-list">
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                  </ul>
+                  <p class="description">
+                   Adullam for me was more than a school of ministry, it was a school of life. I was totally transformed. I learnt love, forgiveness, wisdom and how to live by Faith. Ancestral covenants and chains of limitations were destroyed. God blessed me with one of His choicest sons as a husband.
+                  </p>
+                  <h3 class="title">Oluwabunmi Israel. </h3>
+                  <p class="designation">Ibadan, Nigeria</p>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="testimonial-box style-4">
+                  <div class="icon-box">
+                    <i class="flaticon-quote"></i>
+                  </div>
+                  <div class="figure-box">
+                    <img
+                      src="le.jpeg"
+                      alt="Testimonial"
+                      width="70"
+                      height="70"
+                    />
+                  </div>
+                  <span class="rating-for">Lesley Uzohuo.</span>
+                  <ul class="testimonial-rating inline-list">
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                  </ul>
+                  <p class="description">
+                  Fulfilling my calling would have been a nightmare without the kind of training I received at Adullam. I have been ministering part-time for 2 years when I realized I was not prepared for ministry. I have learnt Theology and been trained for ministry. The principles of prayer, interpretation and application of scriptures, territorial invasion, and establishment of the reign of God's Kingdom in any culture.
+                  </p>
+                  <h3 class="title">Lesley Uzohuo. </h3>
+                  <p class="designation">California, USA.</p>
+                </div>
+              </div>
+			  
+			         <div class="swiper-slide">
+                <div class="testimonial-box style-4">
+                  <div class="icon-box">
+                    <i class="flaticon-quote"></i>
+                  </div>
+                  <div class="figure-box">
+                    <img
+                      src="li.jpeg"
+                      alt="Testimonial"
+                      width="70"
+                      height="70"
+                    />
+                  </div>
+                  <span class="rating-for">Andy A. Erick </span>
+                  <ul class="testimonial-rating inline-list">
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                  </ul>
+                  <p class="description">
+				  
+				  Coming to Adullam was one of the least on my agenda because of the sacrifices attached to it. 
+
+Well, I came after counting the costs, and I discovered that there is nothing more important than to discover God's will for my life and walk in it. 
+
+Sincerely, I can tell you that my expectations were high and my experiences currently are matching up exactly with what I need. 
+
+I'm glad to be here, it's indeed a cave that builds men.
+
+
+                  </p>
+                  <h3 class="title"> Andy A. Erick 
+ </h3>
+                  <p class="designation"> Ivory coast</p>
+                </div>
+              </div>
+			  
+			  
+			  
+			  
+			      <div class="swiper-slide">
+                <div class="testimonial-box style-4">
+                  <div class="icon-box">
+                    <i class="flaticon-quote"></i>
+                  </div>
+                  <div class="figure-box">
+                    <img
+                      src="1.jpg"
+                      alt="Testimonial"
+                      width="70"
+                      height="70"
+                    />
+                  </div>
+                  <span class="rating-for">Mr/Mrs  Mbuyane </span>
+                  <ul class="testimonial-rating inline-list">
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                  </ul>
+                  <p class="description">
+			The benefit of having a structured and regimented spiritual program, really yields much fruits.
+
+In about three months into the program I and my husband already began to enjoy so much spiritual growth. 
+
+My prayer life has dramatically been transformed, I used to think that I was a disciplined and prayerful believer, but it’s totally different now, there’s an added grace that helps me tarry much longer and hear a lot better. 
+
+I totally admire and have utmost respect for our anointed lecturers, and our online coordinator, making the community experience so real. 
+
+
+                  </p>
+                  <h3 class="title"> Mr/Mrs  Mbuyane
+ </h3>
+                  <p class="designation"> Johannesburg, South Africa.</p>
+                </div>
+              </div>
+			      <div class="swiper-slide">
+                <div class="testimonial-box style-4">
+                  <div class="icon-box">
+                    <i class="flaticon-quote"></i>
+                  </div>
+                  <div class="figure-box">
+                    <img
+                      src="2.jpeg"
+                      alt="Testimonial"
+                      width="70"
+                      height="70"
+                    />
+                  </div>
+                  <span class="rating-for"> Francis  </span>
+                  <ul class="testimonial-rating inline-list">
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                  </ul>
+                  <p class="description">
+				  
+				 What would have been worse than not making that decision to enroll for Adullam?
+
+The rigorous and regimented nature of the program taught me consistency both in prayers and Bible reading.
+
+Talking of Bible reading, hadn't been able to finish the Bible, but Adullam made me finish it twice.
+
+My most priced moments at Adullam were those 2weeks on the missions field; saw deaf ears open by my feeble hands, saw young teenage boys get saved and filled with the Holy Spirit at the spot, amongst others.
+
+For me, Adullam is a blessing I'd recommend for everyone who is hungry for more of God
+
+
+                  </p>
+                  <h3 class="title"> Francis 
+ </h3>
+                  <p class="designation"> Nigeria</p>
+                </div>
+              </div>
+			      <div class="swiper-slide">
+                <div class="testimonial-box style-4">
+                  <div class="icon-box">
+                    <i class="flaticon-quote"></i>
+                  </div>
+                  <div class="figure-box">
+                    <img
+                      src="3.jpeg"
+                      alt="Testimonial"
+                      width="70"
+                      height="70"
+                    />
+                  </div>
+                  <span class="rating-for"> Tiekena McKoy-Harriott </span>
+                  <ul class="testimonial-rating inline-list">
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                  </ul>
+                  <p class="description">
+				Adullam is second to none proving to be Christ-centred and focused on developing every aspect of our lives. 
+
+I am humbled and grateful that the institution is designed to stretch international students especially, as we embark on a journey to encounter Jesus Christ and all things pertaining the Kingdom. 
+
+
+                  </p>
+                  <h3 class="title">Tiekena McKoy-Harriott
+ </h3>
+                  <p class="designation"> Jamaica</p>
+                </div>
+              </div>
+			  
+			  		      <div class="swiper-slide">
+                <div class="testimonial-box style-4">
+                  <div class="icon-box">
+                    <i class="flaticon-quote"></i>
+                  </div>
+                  <div class="figure-box">
+                    <img
+                      src="4.jpeg"
+                      alt="Testimonial"
+                      width="70"
+                      height="70"
+                    />
+                  </div>
+                  <span class="rating-for">  Collinpowell Ebai</span>
+                  <ul class="testimonial-rating inline-list">
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                  </ul>
+                  <p class="description">
+				If I have to describe what Adullam has been for me these couple of months, I would say it is a spiritual breeding ground for everyone who desires to follow God's will. 
+
+The Eye-opener for me so far, has been the daily Bible reading which is supposed to be done aloud. 
+
+I found out this method greatly helps with the distractions that floods the mind as we read. 
+
+I'd say in Adullam I have been initiated into a culture that has left me always seeking to do the will of God.
+
+                  </p>
+                  <h3 class="title"> Collinpowell Ebai
+ </h3>
+                  <p class="designation"> USA</p>
+                </div>
+              </div>
+			  
+			  		      <div class="swiper-slide">
+                <div class="testimonial-box style-4">
+                  <div class="icon-box">
+                    <i class="flaticon-quote"></i>
+                  </div>
+                  <div class="figure-box">
+                    <img
+                      src="5.jpeg"
+                      alt="Testimonial"
+                      width="70"
+                      height="70"
+                    />
+                  </div>
+                  <span class="rating-for"> Hileni Magano Amakali  </span>
+                  <ul class="testimonial-rating inline-list">
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                  </ul>
+                  <p class="description">
+				For me, Adullam is more than a Bible Seminary, it is a spiritual military base where kingdom troops are trained.
+
+The vast knowledge, wisdom and attention to detail of the Adullam faculty and Admin team is very inspiring.
+
+As an online student, the experience has been very outstanding and special for me. <br>
+
+My spiritual life has undergone a beautiful transformation, and my first love for Jesus has been restored.
+
+The courses are very relatable and relevant for our times'.
+
+                  </p>
+                  <h3 class="title"> Hileni Magano Amakali 
+ </h3>
+                  <p class="designation"> Namibia</p>
+                </div>
+              </div>
+			  
+			  
+			    <div class="swiper-slide">
+                <div class="testimonial-box style-4">
+                  <div class="icon-box">
+                    <i class="flaticon-quote"></i>
+                  </div>
+                  <div class="figure-box">
+                    <img
+                      src="shek.jpeg"
+                      alt="Testimonial"
+                      width="70"
+                      height="70"
+                    />
+                  </div>
+                  <span class="rating-for"> Comr Emeritus Shatikha  </span>
+                  <ul class="testimonial-rating inline-list">
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                  </ul>
+                  <p class="description">
+				God led me to Adullam on the 29th of January 2022.<br>
+
+My prayer life has improved; I am learning to stay in the secret place. 
+<br>
+Bible study is now interesting, as my understanding has greatly improved. <br>
+
+Most importantly is my burden for evangelism that has been renewed; what was once an obligation
+has now become something I enjoy doing. 
+
+
+                  </p>
+                  <h3 class="title"> Comr Emeritus Shatikha 
+ </h3>
+                  <p class="designation"> S. Chivusia (Kenya)</p>
+                </div>
+              </div>
+         
+            </div>
+            <div class="swiper-pagination"></div>
+          </div>
+        </div>
+      </section>
+      <!--=====================================-->
+      <!--=         Testimonial End        	=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=       Call To Action Start      	=-->
+      <!--=====================================-->
+      <section class="call-to-action-wrap-style-5">
+        <div class="container">
+          <div class="inner" data-bg-image="media/elements/element48.png">
+            <div class="call-to-action-box style-5">
+              <div class="content-box">
+                <div class="sub-title"></div>
+                <h2 class="title">Do you desire to make an impact on society? Join Adullam Today!</h2>
+                <a href="profile.html" class="btn-fill style-5"
+                  >Apply Now</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--=====================================-->
+      <!--=        Call To Action End       	=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	Footer Start      		=-->
+      <!--=====================================-->
+      <footer class="footer style-1">
+        <div class="container">
+          <div class="footer-top">
+            <div class="row">
+              <div class="col-lg-3 col-md-6 col-12">
+                <div class="widget widget-contact">
+                  <div class="footer-logo">
+                    <a href="index-2.html" class="d-inline-block"
+                      ><img
+                        src="media/logo-light.png"
+                        alt="Logo"
+                        width="101"
+                        height="37"
+                    /></a>
+                  </div>
+                  <div class="footer-address">
+                    #4 Remnant Avenue,
+opposite State Library,
+Makurdi, Benue State.
+                  </div>
+                  <div class="footer-number">
+                    <i class="fas fa-phone-alt"></i>+234 802 216 4432.
+                  </div>
+                  <div class="footer-email"> adullam.rcn@gmail.com</div>
+                  <ul class="inline-list footer-social">
+                    <li>
+                      <a href="javascript:void(0);" class="facebook"
+                        ><i class="fab fa-facebook-f"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" class="twitter"
+                        ><i class="fab fa-twitter"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" class="instagram"
+                        ><i class="fab fa-instagram"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" class="pinterest"
+                        ><i class="fab fa-pinterest-p"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" class="youtube"
+                        ><i class="fab fa-youtube"></i
+                      ></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 col-12">
+                <div class="widget widget-nav style-1">
+                  <h3 class="widget-heading heading-light">Adullam</h3>
+                  <ul class="block-list menu">
+                    <li class="menu-item"><a href="">Vision & Mission</a></li>
+                    <li class="menu-item">
+                      <a href="about.html">Office of the Provost</a>
+                    </li>
+					  <li class="menu-item">
+                      <a href="">Virtual Tour</a>
+                    </li>
+                   
+                   
+                    <li class="menu-item">
+                      <a href="">Help Desk</a>
+                    </li>
+					 <li class="menu-item">
+                      <a href="">Admission</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 col-12">
+                <div class="widget widget-nav style-1">
+                  <h3 class="widget-heading heading-light">Important links</h3>
+                  <ul class="block-list menu">
+                    <li class="menu-item">
+                      <a href="">Explore programs</a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="">Online programs</a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="">Academic Calender</a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="">Tuition & Scholarship</a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="">International Admission</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 col-12">
+                <div class="widget widget-subscribe">
+                  <h3 class="widget-heading heading-light">Get in touch!</h3>
+                  <div class="footer-subscribe">
+                    <p class="description">
+                     Subscribe for our News letter
+					 
+                    </p>
+                    <form>
+                      <input
+                        type="email"
+                        name="email"
+                        class="form-control"
+                        placeholder="Email"
+                      />
+                      <input
+                        type="submit"
+                        class="submit-btn"
+                        name="subscribe-btn"
+                        value="SUBSCRIBE"
+                      />
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer-bottom">
+            <div class="row">
+              <div
+                class="
+                  col-lg-6 col-12
+                  d-flex
+                  justify-content-center justify-content-lg-start
+                  align-items-center
+                  text-center
+                "
+              >
+			  
+			
+                <div class="footer-copyright">
+                  © 2022 - 2023 <span>Adullam - RCN Bible Seminary |</span> All Rights Reserved by
+                  <a href="" rel="nofollow"
+                    ></a
+                  >
+                </div>
+              </div>
+              <div
+                class="
+                  col-lg-6 col-12
+                  d-flex
+                  justify-content-center justify-content-lg-end
+                  align-items-center
+                  text-center
+                "
+              >
+                <div class="footer-terms">
+                  <a href="contact.html">Privacy Policy</a>
+                  <a href="contact.html">Terms of Use</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!--=====================================-->
+      <!--=     	 	Footer End      		=-->
+      <!--=====================================-->
+    </div>
+    <!-- Modal Start -->
+   
+    <!-- Modal End -->
+
+    <script src="dependencies/jquery/jquery.min.js"></script>
+    <script src="dependencies/popper/popper.min.js"></script>
+    <script src="dependencies/bootstrap/js/bootstrap.min.js"></script>
+    <script src="dependencies/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="dependencies/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="dependencies/parallaxie/parallaxie.js"></script>
+    <script src="dependencies/slick/slick.min.js"></script>
+    <script src="dependencies/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <script src="dependencies/waypoints/jquery.waypoints.min.js"></script>
+    <script src="dependencies/counter-up/jquery.counterup.min.js"></script>
+    <script src="dependencies/countdown/jquery.countdown.min.js"></script>
+    <script src="dependencies/wow/js/wow.min.js"></script>
+    <script src="dependencies/swiper/js/swiper.min.js"></script>
+    <script src="dependencies/validator/validator.min.js"></script>
+    <script src="dependencies/gmap3/gmap3.min.js"></script>
+    <script src="dependencies/tween-max/tween-max.min.js"></script>
+    <script src="dependencies/datetimepicker/jquery.datetimepicker.full.min.js"></script>
+    <script src="dependencies/select2/js/select2.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB13ZAvCezMx5TETYIiGlzVIq65Mc2FG5g"></script>
+
+    <!-- Site Scripts -->
+    <script src="assets/js/app.js"></script>
+  </body>
+
+</html>

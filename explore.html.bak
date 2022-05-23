@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  
+<head>
+    <!-- Meta Data -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Edhub - About Us | Education HTML Template</title>
+    <meta name="description" content="" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="media/favicon.png" />
+
+    <!-- Dependencies -->
+    <link
+      rel="stylesheet"
+      href="dependencies/bootstrap/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="dependencies/animate/animate.min.css" />
+    <link rel="stylesheet" href="dependencies/fontawesome/css/all.min.css" />
+    <link rel="stylesheet" href="dependencies/flaticon/font/flaticon.css" />
+    <link rel="stylesheet" href="dependencies/slick/slick.css" />
+    <link
+      rel="stylesheet"
+      href="dependencies/magnific-popup/css/magnific-popup.css"
+    />
+    <link
+      rel="stylesheet"
+      href="dependencies/swiper/css/swiper.min.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="dependencies/datetimepicker/jquery.datetimepicker.css"
+    />
+    <link
+      rel="stylesheet"
+      href="dependencies/select2/css/select2.min.css"
+      type="text/css"
+    />
+    <!-- Site Stylesheet -->
+    <link rel="stylesheet" href="assets/css/app.css" />
+    <!-- Google Web Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400&amp;display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+    <div id="preloader" class="preloader">
+      <div class="loaders loader-1">
+        <div class="loader-outter"></div>
+        <div class="loader-inner"></div>
+      </div>
+    </div>
+    <div id="wrapper" class="wrapper">
+      <!--=====================================-->
+      <!--=     		Header Start     		=-->
+      <!--=====================================-->
+      <header class="header-style-2 sticky-on">
+        <div id="sticky-placeholder"></div>
+        <div id="topbar-wrap" class="topbar style-3">
+          <div class="container">
+            <div class="topbar-row">
+             <ul class="left-box inline-list align-items-center">
+                <li><i class="fas fa-phone-alt"></i> +234 802 216 4432 </li>
+                <li>
+                  <i class="fas fa-map-marker-alt"></i> #4 Remnant Avenue,
+opposite State Library,Makurdi, Benue State.
+                </li>
+                <li><i class="far fa-clock"></i> Mon - Sat 8.00 - 4.00 GMT+1</li>
+              </ul>
+              <ul class="right-box inline-list">
+                <li class="social align-items-center">
+                  <a href="#"><i class="fab fa-facebook-f"></i></a>
+                  <a href="#"><i class="fab fa-twitter"></i></a>
+                  <a href="#"><i class="fab fa-instagram"></i></a>
+                  <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                  <a href="#"><i class="fab fa-youtube"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div id="navbar-wrap" class="navbar-wrap">
+          <div class="header-menu">
+            <div class="container">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="site-branding">
+                  <a href="index-2.html" class="logo"
+                    ><img
+                      src="media/logo-dark.png"
+                      alt="Logo"
+                      width="101"
+                      height="37"
+                  /></a>
+                </div>
+          <nav class="template-main-menu">
+                  <ul class="menu">
+                  
+                     <strong> <a href="index-2.html">Home</a></strong>
+                   
+				   
+				   
+                    <li class="menu-item menu-item-has-children">
+                      <a href="course4.html">About Adullam</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item">
+                          <a href="course1.html">Vision & Mission</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="course2.html">Office of the Provost</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="course3.html">Adullam Administration</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="course4.html">Visit information</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="category.html">Virtual Tour</a>
+                        </li>
+                     
+                      </ul>
+                    </li>
+                    <li class="menu-item menu-item-has-children">
+                      <a href="index-2.html">Academics</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item">
+                          <a href="about.html">Explore Programs</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="event.html">Online Programs</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="become-instructor.html">Under Graduate</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="instructor.html">Graduate</a>
+                        </li>
+                       
+                      </ul>
+                    </li>
+                    <li class="menu-item menu-item-has-children">
+                      <a href="blog-grid.html">Admissions</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item">
+                          <a href="blog-grid.html">Apply Now</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="blog-list.html">Tuition & Scholarship </a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="single-blog.html">International Admissions</a>
+                        </li>
+						
+						 <li class="menu-item">
+                          <a href="single-blog.html">Academic Calender</a>
+                        </li>
+                      </ul>
+                    </li>
+                    
+                    <li class="menu-item menu-item-has-children">
+                      <a href="blog-grid.html">Life at Adullam</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item">
+                          <a href="blog-grid.html">Virtual Tour</a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="blog-list.html">The Chapel </a>
+                        </li>
+                        <li class="menu-item">
+                          <a href="single-blog.html">RCN Embassy</a>
+                        </li>
+						
+						 <li class="menu-item">
+                          <a href="single-blog.html">Health & Wellness</a>
+                        </li>
+						<li class="menu-item">
+                          <a href="single-blog.html">Housing & Hostels</a>
+                        </li>
+                      </ul>
+                    </li>
+				   
+				   
+				   <li class="menu-item">
+                      <a href="contact.html">Partnership
+					  </a>
+                    </li>
+					<li class="menu-item">
+                      <a href="contact.html">Contact us</a>
+                    </li>
+                  </ul>
+                </nav>
+        
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div
+        class="rt-header-menu mean-container position-relative"
+        id="meanmenu"
+      >
+        <div class="topbar style-1">
+          <div class="topbar-row for-mobile-menu">
+            <ul
+              class="
+                left-box
+                inline-list
+                align-items-center
+                justify-content-center
+                w-100
+              "
+            >
+              <li><i class="fas fa-phone-alt"></i> +1 212-226-3126</li>
+              <li>
+                <i class="fas fa-map-marker-alt"></i> 457 Mott Street, NY 10013
+              </li>
+              <li><i class="far fa-clock"></i> Mon - Sat 8.00 - 18.00</li>
+            </ul>
+          </div>
+        </div>
+        <div class="mean-bar">
+          <a href="index-2.html">
+            <img
+              src="media/logo-mobile.png"
+              alt="Logo"
+              width="80"
+              height="29"
+            />
+          </a>
+          <div class="mean-bar--right">
+            <div class="actions search">
+              <a href="#template-search" class="item-icon" title="Search">
+                <i class="fas fa-search"></i>
+              </a>
+            </div>
+            <div class="actions user">
+              <a href="profile.html"><i class="flaticon-user"></i></a>
+            </div>
+            <span class="sidebarBtn">
+              <span class="bar"></span>
+              <span class="bar"></span>
+              <span class="bar"></span>
+              <span class="bar"></span>
+            </span>
+          </div>
+        </div>
+        <div class="rt-slide-nav">
+          <div class="offscreen-navigation">
+            <nav class="menu-main-primary-container">
+              <ul class="menu">
+                <li class="list menu-item-parent menu-item-has-children">
+                  <a class="animation" href="https://www.radiustheme.com/demo/html/edhub/home-main.html">Home</a>
+                  <ul class="main-menu__dropdown sub-menu">
+                    <li><a href="index-2.html">Main Home</a></li>
+                    <li><a href="index2.html">Online Education</a></li>
+                    <li><a href="index3.html">Data Science</a></li>
+                    <li><a href="index4.html">Development</a></li>
+                  </ul>
+                </li>
+                <li class="list menu-item-parent menu-item-has-children">
+                  <a class="animation" href="https://www.radiustheme.com/demo/html/edhub/home-main.html">Courses</a>
+                  <ul class="main-menu__dropdown sub-menu">
+                    <li><a href="course1.html">Course Style 1</a></li>
+                    <li><a href="course2.html">Course Style 2</a></li>
+                    <li><a href="course3.html">Course Style 3</a></li>
+                    <li><a href="course4.html">Course Style 4</a></li>
+                    <li><a href="category.html">Category Page</a></li>
+                    <li><a href="single-course1.html">Course Single 1</a></li>
+                    <li><a href="single-course2.html">Course Single 2</a></li>
+                    <li><a href="single-course3.html">Course Single 3</a></li>
+                  </ul>
+                </li>
+                <li class="list menu-item-parent menu-item-has-children">
+                  <a class="animation" href="https://www.radiustheme.com/demo/html/edhub/home-main.html">Pages</a>
+                  <ul class="main-menu__dropdown sub-menu">
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="event.html">Event</a></li>
+                    <li>
+                      <a href="become-instructor.html">Become Instructor</a>
+                    </li>
+                    <li><a href="instructor.html">Instructor</a></li>
+                    <li><a href="meeting.html">Zoom Meeting</a></li>
+                    <li><a href="profile.html">Profile</a></li>
+                    <li><a href="single-event.html">Events Single</a></li>
+                    <li><a href="membership-plan.html">Membership Plans</a></li>
+                    <li><a href="faq.html">Faq</a></li>
+                    <li><a href="404.html">404</a></li>
+                  </ul>
+                </li>
+                <li class="list menu-item-parent menu-item-has-children">
+                  <a class="animation" href="https://www.radiustheme.com/demo/html/edhub/home-main.html">Blog</a>
+                  <ul class="main-menu__dropdown sub-menu">
+                    <li><a href="blog-grid.html">Blog Grid</a></li>
+                    <li><a href="blog-list.html">Blog List</a></li>
+                    <li><a href="single-blog.html">Blog Single</a></li>
+                  </ul>
+                </li>
+                <li class="list menu-item-parent menu-item-has-children">
+                  <a class="animation" href="https://www.radiustheme.com/demo/html/edhub/home-main.html">Shop</a>
+                  <ul class="main-menu__dropdown sub-menu">
+                    <li><a href="shop.html">Shop</a></li>
+                    <li><a href="single-shop.html">Shop Single</a></li>
+                  </ul>
+                </li>
+                <li class="list menu-item-parent">
+                  <a class="animation" href="contact.html">Contact us</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <!--=====================================-->
+      <!--=     	 	Header End      		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     		Meeting Start     		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=       	 Breadcrumb Start      	=-->
+      <!--=====================================-->
+      <div
+        class="breadcrumb-wrap-style-2"
+        data-bg-image="media/slide/5.png"
+      >
+        <nav aria-label="breadcrumb">
+         
+        </nav>
+        <div class="inner-banner-title">
+          <h1 class="title">
+            Explore Programs
+          </h1>
+        </div>
+      </div>
+      <!--=====================================-->
+      <!--=     	 	Breadcrumb End     		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	About Start     		=-->
+      <!--=====================================-->
+      <section class="about-wrap-style-12 motion-effects-wrap">
+        <div class="container">
+         
+          <section class="about-wrap-style-3 motion-effects-wrap">
+        <div class="container isotope-wrap">
+          <div class="d-flex justify-content-between flex-wrap">
+            <div class="section-heading style-3">
+              <div class="sub-title">Enrollment</div>
+              <h2 class="title">Academic Programs.</h2>
+            </div>
+           
+          </div>
+          <div class="row">
+            <div class="col-xl-6 col-12">
+              <div class="about-box style-3">
+                <ul class="block-list about-list">
+                
+                  <li>
+                    <br>  <br>  <br>  <br>
+                    <div class="content-box"> 
+					<h6 class="description">
+The programs are designed to establish the believer in the foundations of the Christian Faith. It
+begins to expose the believer to the realities of the Kingdom of God, Truths about Spirit Life, the
+Government of God and the implications of these realities in natural existence in their various
+ramifications in everyday life situations. The programs have an objective of producing Kingdom
+foot soldiers, a workforce equipped with adequate capacities and tools for Kingdom Advance and
+colonization. Challenging realities on the field of Christian missions and the provisions of Kingdom
+resource to live triumphant in Kingdom enterprise are expounded. Moreover, the training equips
+the believer for Apostolic Invasions and Territorial Priesthood. 
+                      </h5><hr>
+                     <strong><h4>There are two enrollment sessions annually:</h4></strong>
+                      <h6 class="description">
+                      The program duration is 2 semesters of four (4) months each for Campus Option, and Seven and a Half (7.5) months each for Online Option. Each of the semesters are schedule during the January or June sessions depending on the time of enrolment.
+ <br><br><strong><h4><a href="handbook.pdf" target="_blank" >Download Student Handbok</a></h4></strong>
+                      </h6>
+                    </div>
+                  </li>
+                 
+                </ul>
+              </div>
+            </div>
+            <div class="col-xl-6 col-12">
+              <div class="about-box style-3">
+                <div class="figure-box">
+                  <img
+                    src="media/banner/banner7.png"
+                    alt="Baneer"
+                    width="930"
+                    height="815"
+                  />
+                </div>
+                <div class="shape-wrap">
+                  <img
+                    class="motion-effects5"
+                    src="media/elements/element68.png"
+                    alt="Element"
+                    width="228"
+                    height="228"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+        </div>
+      </section>
+      <!--=====================================-->
+      <!--=     	      About End      	 	=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=             Works Start       	=-->
+      <!--=====================================-->
+     
+      <!--=====================================-->
+      <!--=     	 	 Brand End      		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=        Testimonial Start     	 	=-->
+      <!--=====================================-->
+      
+      <!--=====================================-->
+      <!--=         Testimonial End        	=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=         	Team Start      	 	=-->
+      <!--=====================================-->
+     
+      <!--=====================================-->
+      <!--=       	 Team End           	=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	 Meeting End      		=-->
+      <!--=====================================-->
+      <!--=====================================-->
+      <!--=     	 	Footer Start      		=-->
+      <!--=====================================-->
+        <footer class="footer style-1">
+        <div class="container">
+          <div class="footer-top">
+            <div class="row">
+              <div class="col-lg-3 col-md-6 col-12">
+                <div class="widget widget-contact">
+                  <div class="footer-logo">
+                    <a href="index-2.html" class="d-inline-block"
+                      ><img
+                        src="media/logo-light.png"
+                        alt="Logo"
+                        width="101"
+                        height="37"
+                    /></a>
+                  </div>
+                  <div class="footer-address">
+                    #4 Remnant Avenue,
+opposite State Library,
+Makurdi, Benue State.
+                  </div>
+                  <div class="footer-number">
+                    <i class="fas fa-phone-alt"></i>+234 802 216 4432.
+                  </div>
+                  <div class="footer-email"> adullam.rcn@gmail.com</div>
+                  <ul class="inline-list footer-social">
+                    <li>
+                      <a href="javascript:void(0);" class="facebook"
+                        ><i class="fab fa-facebook-f"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" class="twitter"
+                        ><i class="fab fa-twitter"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" class="instagram"
+                        ><i class="fab fa-instagram"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" class="pinterest"
+                        ><i class="fab fa-pinterest-p"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" class="youtube"
+                        ><i class="fab fa-youtube"></i
+                      ></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 col-12">
+                <div class="widget widget-nav style-1">
+                  <h3 class="widget-heading heading-light">Adullam</h3>
+                  <ul class="block-list menu">
+                    <li class="menu-item"><a href="">Vision & Mission</a></li>
+                    <li class="menu-item">
+                      <a href="about.html">Office of the Provost</a>
+                    </li>
+					  <li class="menu-item">
+                      <a href="">Virtual Tour</a>
+                    </li>
+                   
+                   
+                    <li class="menu-item">
+                      <a href="">Help Desk</a>
+                    </li>
+					 <li class="menu-item">
+                      <a href="">Admission</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 col-12">
+                <div class="widget widget-nav style-1">
+                  <h3 class="widget-heading heading-light">Important links</h3>
+                  <ul class="block-list menu">
+                    <li class="menu-item">
+                      <a href="">Explore programs</a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="">Online programs</a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="">Academic Calender</a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="">Tuition & Scholarship</a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="">International Admission</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 col-12">
+                <div class="widget widget-subscribe">
+                  <h3 class="widget-heading heading-light">Get in touch!</h3>
+                  <div class="footer-subscribe">
+                    <p class="description">
+                     Subscribe for our News letter
+					 
+                    </p>
+                    <form>
+                      <input
+                        type="email"
+                        name="email"
+                        class="form-control"
+                        placeholder="Email"
+                      />
+                      <input
+                        type="submit"
+                        class="submit-btn"
+                        name="subscribe-btn"
+                        value="SUBSCRIBE"
+                      />
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer-bottom">
+            <div class="row">
+              <div
+                class="
+                  col-lg-6 col-12
+                  d-flex
+                  justify-content-center justify-content-lg-start
+                  align-items-center
+                  text-center
+                "
+              >
+			  
+			
+                <div class="footer-copyright">
+                  © 2022 - 2023 <span>Adullam - RCN Bible Seminary |</span> All Rights Reserved by
+                  <a href="" rel="nofollow"
+                    ></a
+                  >
+                </div>
+              </div>
+              <div
+                class="
+                  col-lg-6 col-12
+                  d-flex
+                  justify-content-center justify-content-lg-end
+                  align-items-center
+                  text-center
+                "
+              >
+                <div class="footer-terms">
+                  <a href="contact.html">Privacy Policy</a>
+                  <a href="contact.html">Terms of Use</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!--=====================================-->
+      <!--=     	 	Footer End      		=-->
+      <!--=====================================-->
+    </div>
+    <!-- Modal Start -->
+    <!-- <div class="modal fade" id="myModal" tabindex="-1" aria-hidden="true"> 
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+                </div>
+                <div class="modal-body">
+                    <div class="content-box">
+                        <div class="sub-title">Get Our New Free Course</div>
+                        <h2 class="title">Awesome for Website</h2>
+                        <form>
+                            <input type="email" name="email" class="form-control" placeholder="E-mail address">
+                            <input type="submit" class="submit-btn" name="subscribe-btn" value="DOWNLOAD NOW">
+                        </form>
+                        <p class="description"><i class="fas fa-lock"></i>Your infomation will never be shared with any third party</p>
+                    </div>
+                    <div class="figure-box">
+                        <img src="media/banner/banner14.png" alt="Banner" width="298" height="543">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!-- Modal End -->
+
+    <script src="dependencies/jquery/jquery.min.js"></script>
+    <script src="dependencies/popper/popper.min.js"></script>
+    <script src="dependencies/bootstrap/js/bootstrap.min.js"></script>
+    <script src="dependencies/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="dependencies/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="dependencies/parallaxie/parallaxie.js"></script>
+    <script src="dependencies/slick/slick.min.js"></script>
+    <script src="dependencies/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <script src="dependencies/waypoints/jquery.waypoints.min.js"></script>
+    <script src="dependencies/counter-up/jquery.counterup.min.js"></script>
+    <script src="dependencies/countdown/jquery.countdown.min.js"></script>
+    <script src="dependencies/wow/js/wow.min.js"></script>
+    <script src="dependencies/swiper/js/swiper.min.js"></script>
+    <script src="dependencies/validator/validator.min.js"></script>
+    <script src="dependencies/gmap3/gmap3.min.js"></script>
+    <script src="dependencies/tween-max/tween-max.min.js"></script>
+    <script src="dependencies/datetimepicker/jquery.datetimepicker.full.min.js"></script>
+    <script src="dependencies/select2/js/select2.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB13ZAvCezMx5TETYIiGlzVIq65Mc2FG5g"></script>
+
+    <!-- Site Scripts -->
+    <script src="assets/js/app.js"></script>
+  </body>
+
+<!-- Mirrored from radiustheme.com/demo/html/edhub/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 12 Mar 2022 15:29:48 GMT -->
+</html>
