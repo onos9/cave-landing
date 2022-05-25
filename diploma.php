@@ -144,8 +144,19 @@ We offer two program options:<br>
 -	A completed Application form (available online)<br>
 -	A minimum of a Secondary School Certificate or its equivalent<br>
 -	Two referees
+<br><hr>
 
-       </h6>
+<strong>Tuition Fees</strong><br>
+<strong>Online program fees</strong>
+Fees $1000 (PER SEMESTER)
+Graduation Fee - $20
+Transcript - $20<br>
+<strong>
+On campus program fees</strong>
+Fees: $1000 (PER SEMESTER)
+Graduation Fee - $20
+Transcript - $20
+     <br><br>    <a href="financialaid.php" class="btn btn-block btn-lg btn-primary">Get Financial Aid</a>    </h6>
                      
                     </div>
                   </li>

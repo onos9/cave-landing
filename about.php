@@ -91,7 +91,7 @@
         </nav>
         <div class="inner-banner-title">
           <h1 class="title">
-            Our Mission is to producing Kingdom foot soldiers.
+            Our Mission is to produce Kingdom foot soldiers.
           </h1>
         </div>
       </div>
@@ -408,5 +408,5 @@ of an academic rigor alongside a high spiritual engagement. </h5>
     <script src="assets/js/app.js"></script>
   </body>
 
-<!-- Mirrored from radiustheme.com/demo/html/edhub/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 12 Mar 2022 15:29:48 GMT -->
+
 </html>

@@ -23,7 +23,7 @@
                   </ul>
                 </li>
                 <li class="list menu-item-parent menu-item-has-children">
-                  <a class="animation" href="">Academics</a>
+                  <a class="animation" href="Academics.php">Academics</a>
                   <ul class="main-menu__dropdown sub-menu">
                     <li class="menu-item">
                           <a href="explore.php">Explore Programs</a>
@@ -82,5 +82,9 @@
 				<li class="list menu-item-parent">
                   <a class="animation" href="contact.php">Contact Us</a>
                 </li>
+
+                 <li class="menu-item">
+                     <a href="https://portal.adullam.ng">Portal</a>
+                    </li>
               </ul>
             </nav>

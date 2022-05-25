@@ -5,7 +5,7 @@
     <!-- Meta Data -->
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Adullam - Online Program|RCN Bible Seminary</title>
+    <title>Adullam - Explore Programs |RCN Bible Seminary</title>
     <meta name="description" content="" />
     <meta
       name="viewport"
@@ -72,7 +72,8 @@
       <!--=====================================-->
       <!--=     		Header Start     		=-->
       <!--=====================================-->
-       <?php include "submenu.php";?>
+     
+        <?php include "submenu.php";?>
       <!--=====================================-->
       <!--=     	 	Header End      		=-->
       <!--=====================================-->
@@ -84,14 +85,14 @@
       <!--=====================================-->
       <div
         class="breadcrumb-wrap-style-2"
-        data-bg-image="cav4.jpg"
+        data-bg-image="n.jpg"
       >
         <nav aria-label="breadcrumb">
          
         </nav>
         <div class="inner-banner-title">
           <h1 class="title">
-        Post Graduate Diploma Training (PGDT)
+          Academics
           </h1>
         </div>
       </div>
@@ -107,82 +108,108 @@
           <section class="about-wrap-style-3 motion-effects-wrap">
         <div class="container isotope-wrap">
           <div class="d-flex justify-content-between flex-wrap">
-          
-          </div>
-          <div class="row">
-            <div class="col-xl-6 col-12">
-              <div class="about-box style-3">
-                <ul class="block-list about-list">
-             <br>     <br> <div class="section-heading style-3">
-              <div class="sub-title">Post Graduate Training</div>
-              <h2 class="title">Post Graduate Diploma Training (PGDT)</h2>
+            <div class="section-heading style-3">
+              <div class="sub-title">Academics</div>
+             <strong><h4>Academic Schedule for Diploma & Post Graduate Diploma Training.</h4></strong>
             </div>
            
+          </div>
+          <div class="row">
+            <div class="col-xl-12 col-12">
+              <div class="about-box style-3">
+                <ul class="block-list about-list">
+                
                   <li>
-                   
+                    <br>  <br>  <br>  <br>
                     <div class="content-box"> 
-					<h5 class="description">
- 
- 
-<strong>WHAT YOU WILL LEARN</strong><br>
-- Develop foundational understanding of Biblical Truth<br>
-- Develop contemporary strategies for effective Ministry within various contexts<br>
-- How to engage in high-level, publishable critical research, analysis, and writing about theology and its related discipline<br>
+					<h6 class="description">
 
-         <hr>             </h5>
-		  <h4 class="title">PROGRAM OPTION</h4><br>
-		 <h6 class="description">
+ <strong>First Semester  Diploma (Year 1)</strong>
+ <hr>
+  1.Doctrine of the God<br>
+  2.Doctrine of the Word<br>
+  3. Introduction to Theological Communication<br>
+  4. The Art of Prayer<br>
+  5. The Art of Service<br>
+  6. Electives I<br><hr>
+<strong>First Semester  Diploma (Year 2)</strong>
 
-We offer two program options:<br>
-<strong>-	On-Campus:</strong> The On-Campus option is a full residency program. The academic activities has three requirements: a class attendance, a ministry practicum and Field Trip<br>
-<strong>-	Online:</strong> The Online program was created in response to the global needs for spiritual training and equipping of those who cannot make it for the residency On-Campus option. Although designed to be still engaging and impactful, its duration is extended more than the On-Campus option, and compatible for the work and family demands of everyday life.
-<br>
-<strong>PROGRAM LENGTH</strong><br>
-Campus option: 9 months<br>
-Online Option: 15 months<br>
+                      <hr>
+                      1.  Study Habits<br>2.  Introduction to Theological Studies II<br>3.  Introduction to Theological Studies II <br>4. Introduction to Biblical Hermeneutics  <br>5. Principles of Christian Discipleship <br>6.   Ministry Practicum III
+                
 
-<strong>ADMISSION REQUIREMENTS</strong><br>
--	A $10 non-refundable application fee<br>
--	A completed Application form (available online)<br>
--	A minimum of a Bachelor’s degree or its equivalent<br>
--	Official transcripts for highest earned degree and any master’s degree work<br>
--	Two referees
-       <hr>     
-<strong>Tuition Fees</strong><br>
-<strong>On campus program fees</strong>
-Tuition Fees - $112 per credit unit: $2016 (PER SEMESTER)
-Graduation Fee - $20
-Transcript - $25<br>
-<strong>Oline program fees</strong>
-Tuition Fees - $112 per credit Unit (Tuition Fees $2016 (PER SEMESTER))
-Graduation Fee - $20
-Transcript - $25
-                     
-        </h6>   <br><br>    <a href="financialaid.php" class="btn btn-block btn-lg btn-primary">Get Financial Aid</a>            </div>
+
+
+                      <h6 class="description">
+                  
+ <br><br>
+                      </h6>
+                    </div>
+                    <div class="content-box"> 
+          <h6 class="description">
+
+<strong> Second Semester  Diploma Year 1</strong>
+
+                      <hr>
+                      1. Doctrine of Faith<br>2. Doctrine of Christian Ministry<br>3. The Art of Communication <br>4. The Art of Stewardship <br>5. Electives II<br> 6. Ministry Practicum II
+
+                      <hr>
+                      <strong> Second Semester  Diploma Year 2</strong>
+                      <hr>
+                      1. Introduction to Biblical Literature II<br>2. The Christian Faith in Relation to Other Faiths<br>3. Introduction to Biblical Exegesis <br>4. Principles of Christian Mentoring <br>5. Ministry Practicum IV.
+                   
+                    </div>
                   </li>
                  
                 </ul>
               </div>
+            </div><div class="section-heading style-3">
+            
+             <strong><h4>Post Graduate Diploma Training.</h4></strong>
             </div>
+           
             <div class="col-xl-6 col-12">
               <div class="about-box style-3">
-                <div class="figure-box">
-                  <img
-                    src="cav9.jpg"
-                    alt="Baneer"
-                    width="930"
-                    height="815"
-                  />
-                </div>
-                <div class="shape-wrap">
-                  <img
-                    class="motion-effects5"
-                    src="media/elements/element68.png"
-                    alt="Element"
-                    width="228"
-                    height="228"
-                  />
-                </div>
+                <ul class="block-list about-list">
+                
+                  <li>
+                    <br>  <br>  <br>  <br>
+                    <div class="content-box"> 
+          <h6 class="description">
+
+ <strong> Semester PGDT </strong>
+ <hr>
+  1.Systematic Theology 1<br>
+  2.Old Testament Survey<br>
+  3. Hermeneutics<br>
+  4. Church History Survey<br>
+  5. Biblical Foundations of Leadership<br>
+  6. Ministry Practicum: Spiritual Life<br>
+  7. Academic Research and Writing.<br>
+ 
+
+                  
+                
+
+
+
+                     
+                    </div>
+                    <div class="content-box"> 
+          <h6 class="description">
+
+<strong> Second Semester</strong>
+
+                      <hr>
+                      1. Systematic Theology 2<br>New Testament Survey<br>3. Homiletics <br>4. TIntroduction to Contemporary World Religions <br>5. Introduction to Philosophy<br> 6. Ministry Practicum :  Biblical Theology of Missions . <br> 7. Academic Research and Writing
+
+                     
+                 
+                   
+                    </div>
+                  </li>
+                 
+                </ul>
               </div>
             </div>
           </div>
@@ -220,7 +247,7 @@ Transcript - $25
       <!--=====================================-->
       <!--=     	 	Footer Start      		=-->
       <!--=====================================-->
-          <?php include "footer.php";?>
+    <?php include "footer.php";?>
       <!--=====================================-->
       <!--=     	 	Footer End      		=-->
       <!--=====================================-->
@@ -277,5 +304,5 @@ Transcript - $25
     <script src="assets/js/app.js"></script>
   </body>
 
-<!-- Mirrored from radiustheme.com/demo/html/edhub/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 12 Mar 2022 15:29:48 GMT -->
+
 </html>

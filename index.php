@@ -191,7 +191,7 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
                 </p>
 				<br><br><br>
                 <div class="btn-wrap">
-                  <a href="contact.php" class="btn-fill style-1"
+                  <a href="https://portal.adullam.ng" class="btn-fill style-1"
                     >Enroll Now<i
                       class="fas fa-long-arrow-alt-right"
                     ></i
@@ -210,7 +210,7 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
 </strong>
                 </p>
                    <br><br> <br>   <div class="btn-wrap">
-                  <a href="contact.php" class="btn-fill style-1"
+                  <a href="https://portal.adullam.ng" class="btn-fill style-1"
                     >Enroll Now<i
                       class="fas fa-long-arrow-alt-right"
                     ></i
@@ -229,7 +229,7 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
 </strong>
                 </p>
                 <br><br> <br>   <div class="btn-wrap">
-                  <a href="contact.php" class="btn-fill style-1"
+                  <a href="https://portal.adullam.ng" class="btn-fill style-1"
                     >Enroll Now<i
                       class="fas fa-long-arrow-alt-right"
                     ></i
@@ -238,7 +238,7 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
               </div>
             </div>
 			
-       
+    
           </div>
         </div>
       </section>
@@ -275,7 +275,7 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
                   The Diploma program will establish believers in the foundation of the Christian Faith.<br><br>
 
                     </h5>
-                    <a href="about.php" class="item-btn btn-fill style-2"
+                    <a href="diploma.php" class="item-btn btn-fill style-2"
                       >Learn More</a
                     >
                   </div>
@@ -304,7 +304,7 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
                   The Post graduate diploma training will develop you in foundational understanding of Biblical Truth.<br><br>
 
                     </h5>
-                    <a href="about.php" class="item-btn btn-fill style-2"
+                    <a href="pgdt.php" class="item-btn btn-fill style-2"
                       >Learn more</a
                     >
                   </div>
@@ -333,7 +333,7 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
               Follow our  News and Events
 
                     </h5>
-                    <a href="about.php" class="item-btn btn-fill style-2"
+                    <a href="" class="item-btn btn-fill style-2"
                       >Learn more</a
                     >
                   </div>

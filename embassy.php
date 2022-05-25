@@ -318,9 +318,8 @@
                 
               </div>
               <h6 class="description"> 
-             Oral Roberts University is a Christ-centered community that commits itself to develop students academically, spiritually, and physically. 
-			 As a part of this, students attend chapel twice per week throughout the academic school year. 
-			 From powerful worship led by ORU students to life-changing messages from world-renowned Christian leaders, chapel provides a way for students, faculty, and staff to join together to glorify and encounter God.
+           RCN Theological Seminary (Adullam) is a Christ-centered community that commits itself to develop/grounding students biblically, spiritually, and physically. As a part of the rigorous training that goes on in the seminary, students attend chapel twice a week throughout the academic school year. From powerful worship led by the Adullam music group to life-changing messages/sermons from renowned Christian ministers, the chapel provides a way for students, faculty, and staff to join together in unity of the faith to glorify and encounter God.
+
               </h6>
             
               
