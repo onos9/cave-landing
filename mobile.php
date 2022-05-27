@@ -43,7 +43,7 @@
                   <a class="animation" href="">Admission</a>
                   <ul class="main-menu__dropdown sub-menu">
                      <li class="menu-item">
-                          <a href="apply.php">Apply Now</a>
+                          <a href="https://portal.adullam.ng">Apply Now</a>
                         </li>
                         <li class="menu-item">
                           <a href="financialaid.php">Financial Aid </a>
