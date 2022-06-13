@@ -90,7 +90,7 @@
                       <a href="contact.php">Contact us</a>
                     </li>
                       <li class="menu-item">
-                      <a href="https://seminary.adullam.ng/main/login_form.php">Portal</a>
+                      <a href="https://seminary.adullam.ng/main/login_form.php">Login</a>
                     </li>
                   </ul>
                 </nav>
