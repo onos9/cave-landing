@@ -150,12 +150,12 @@ Online Option: 15 months<br>
        <hr>     
 <strong>Tuition Fees</strong><br>
 <strong>On campus program fees</strong>
-Tuition Fees - $112 per credit unit: $2016 (PER SEMESTER)
-Graduation Fee - $20
+Tuition Fees - $2016 PER SEMESTER ($112 per credit unit) 
+Graduation Fee - $20 
 Transcript - $25<br>
 <strong>Oline program fees</strong>
-Tuition Fees - $112 per credit Unit (Tuition Fees $2016 (PER SEMESTER))
-Graduation Fee - $20
+Tuition Fees -  $2016 PER SEMESTER ($112 per credit Unit ) 
+Graduation Fee - $20 
 Transcript - $25
                      
         </h6>   <br><br>    <a href="financialaid.php" class="btn btn-block btn-lg btn-primary">Get Financial Aid</a>            </div>

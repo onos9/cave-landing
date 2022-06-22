@@ -148,13 +148,13 @@ We offer two program options:<br>
 
 <strong>Tuition Fees</strong><br>
 <strong>Online program fees</strong>
-Fees $1000 (PER SEMESTER)
-Graduation Fee - $20
+Fees Fees $1000 PER SEMESTER 
+Graduation Fee - $20 
 Transcript - $20<br>
 <strong>
 On campus program fees</strong>
-Fees: $1000 (PER SEMESTER)
-Graduation Fee - $20
+Fees Fees: $1000 PER SEMESTER 
+Graduation Fee - $20 
 Transcript - $20
      <br><br>    <a href="financialaid.php" class="btn btn-block btn-lg btn-primary">Get Financial Aid</a>    </h6>
                      
