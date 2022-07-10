@@ -447,8 +447,69 @@
         wow.init();
       });
 
+    $("#log-alart").alert("close");
+    $("#log-alart").alert("open");
+
     // Modal
-    $("#myModal").modal("show");
+    if (!localStorage.token) $("#myModal").modal("show");
+
+    const signin = document.querySelector("form#signin");
+    const logbook = document.querySelector("form#logbook");
+    signin.onsubmit = async (e) => {
+      e.preventDefault();
+      const formData = new FormData(document.forms.signin);
+      let data = {};
+      for (var key of formData.keys()) {
+        data = { ...data, [key]: formData.get(key) };
+      }
+
+      const rawResponse = await fetch(
+        "https://admin.adullam.ng/api/v1/auth/temp",
+        {
+          method: "POST",
+          headers: {
+            Accept: "application/json",
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(data),
+        }
+      );
+      const resp = await rawResponse.json();
+      console.log(resp);
+
+      if (resp?.login) {
+        localStorage.token = resp?.accessToken;
+        $("#myModal").modal("hide");
+      }
+    };
+
+    logbook.onsubmit = async (e) => {
+      e.preventDefault();
+      const formData = new FormData(document.forms.logbook);
+      let data = {};
+      for (var key of formData.keys()) {
+        data = { ...data, [key]: formData.get(key) };
+      }
+
+      const rawResponse = await fetch(
+        "https://admin.adullam.ng/api/v1/logbook",
+        {
+          method: "POST",
+          headers: {
+            Authorization: "Bearer " + localStorage.token,
+            Accept: "application/json",
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(data),
+        }
+      );
+      const resp = await rawResponse.json();
+      console.log(resp);
+
+      if (rawResponse?.status == 403) {
+        $("#myModal").modal("show");
+      }
+    };
 
     // Page Preloader
     $("#preloader").fadeOut("slow", function () {

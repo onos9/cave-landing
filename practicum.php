@@ -100,25 +100,47 @@
       <!--=====================================-->
       <!--=     	 	Contact Start     		=-->
       <!--=====================================-->
+
+      <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+        <symbol id="check-circle-fill" fill="currentColor" viewBox="0 0 16 16">
+            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+        </symbol>
+      </svg>
+      
       <section class="contact-wrap-style-1">
+        
         <div class="container" >
        
           <div class="contact-form style-1">
             <div class="inner">
-              <h2 class="title">Adullam Diploma in Theology & Ministry June 2022 Application.</h2>
-              <p class="description">
-               The RCN Bible Seminary - Adullam, offers a Diploma Program in Theology and Ministry.
 
-A training program that is both spiritually imparting and intellectual.<hr width="100%" height="5px">
-              </p>
-           <h2 class="title">   <form id="contact-form"
+              <h2 class="title">Practicum Log book</h2>
+              <p class="description">For old student in diploma please go <a href="#">here</a></p>
+               
+           <h2 class="">   
+            <form id="logbook">
                 <div class="row">
+                    <h5 style="margin-bottom:0">Daily Tongues Exercise</h5>
+				    <hr width="100%" height="2px">
+                    <div class="col-md-12 form-group">
+                    <input
+                      type="number"
+                      placeholder="Prayer time in minutes"
+                      class="form-control"
+                      name="prayerTime"
+                      data-error="Name field is required"
+                      required
+                    />
+                    <div class="help-block with-errors"></div>
+                  </div>
+                <h5 style="margin-bottom:0">Daily Bible Reading</h5>
+				<hr width="100%" height="2px">
                   <div class="col-md-6 form-group">
                     <input 
                       type="text" 
-                      placeholder="Title"
+                      placeholder="Book and Chapters Read"
                       class="form-control"
-                      name="name"
+                      name="passages"
                       data-error="Name field is required"
                       required
                     />
@@ -126,47 +148,48 @@ A training program that is both spiritually imparting and intellectual.<hr width
                   </div>
 				  <div class="col-md-6 form-group">
                     <input
-                      type="text"
-                      placeholder="Last Name "
+                      type="number"
+                      placeholder="Total Number of Chapters read"
                       class="form-control"
-                      name="name"
+                      name="totalChapters"
                       data-error="Name field is required"
                       required
                     />
                     <div class="help-block with-errors"></div>
                   </div>
 				  
-				 <hr width="100%" height="2px">
-				  
+                  <h5 style="margin-bottom:0">Daily Literature Reading</h5>
+				  <hr width="100%" height="2px">
 				  <div class="col-md-6 form-group">
                     <input
                       type="text"
-                      placeholder="First Name"
+                      placeholder="Book Title and Author"
                       class="form-control"
-                      name="name"
+                      name="book"
                       data-error="Name field is required"
                       required
                     />
                     <div class="help-block with-errors"></div>
                   </div><div class="col-md-6 form-group">
                     <input
-                      type="text"
-                      placeholder="Date of Birth"
+                      type="number"
+                      placeholder="Number of pages Read"
                       class="form-control"
-                      name="name"
+                      name="totalPages"
                       data-error="Name field is required"
                       required
                     />
                     <div class="help-block with-errors"></div>
                   </div>
 				    
+                  <h5 style="margin-bottom:0">Fasting twice a week (Monday & Friday)</h5>
 				 <hr width="100%" height="5px">
 				  <div class="col-md-6 form-group">
                     <input
                       type="text"
-                      placeholder="Contact Address"
+                      placeholder="Fast Starts(Time)"
                       class="form-control"
-                      name="name"
+                      name="fastStart"
                       data-error="Name field is required"
                       required
                     />
@@ -174,109 +197,74 @@ A training program that is both spiritually imparting and intellectual.<hr width
                   </div><div class="col-md-6 form-group">
                     <input
                       type="text"
-                      placeholder="City "
+                      placeholder="Fast Ends (Time) "
                       class="form-control"
-                      name="name"
+                      name="fastEnd"
                       data-error="Name field is required"
                       required
                     />
                     <div class="help-block with-errors"></div>
                   </div>
-				  
+                  <h5 style="margin-bottom:0">Weekly Intercessory Prayer Walk (thrice in a week)</h5>
 				  <hr width="100%" height="5px">
-				  
-				  <div class="col-md-6 form-group">
+				  <div class="col-md-12 form-group">
                     <input
                       type="text"
-                      placeholder="State/Province"
+                      placeholder="Location"
                       class="form-control"
-                      name="name"
+                      name="lacation"
                       data-error="Name field is required"
                       required
                     />
                     <div class="help-block with-errors"></div>
                   </div>
-				   <div class="col-md-6 form-group">
-                    <input
-                      type="text"
-                      placeholder="Country"
+                  <div class="col-md-12 form-group">
+                    <textarea
+                      placeholder="Nature of territory "
                       class="form-control"
-                      name="name"
-                      data-error="Name field is required"
-                      required
-                    />
-                    <div class="help-block with-errors"></div>
-                  </div>
-				  <hr width="100%" height="5px">
-				  <div class="col-md-6 form-group">
-                    <input
-                      type="text"
-                      placeholder="Postal Code/Zip"
-                      class="form-control"
-                      name="name"
-                      data-error="Name field is required"
-                      required
-                    />
-                    <div class="help-block with-errors"></div>
-                  </div>
-                  <div class="col-md-6 form-group">
-                    <input
-                      type="email"
-                      placeholder="Telephone (Preferably WhatsApp Contact) "
-                      class="form-control"
-                      name="email"
+                      name="territory"
                       
                       required
-                    />
+                    ></textarea>
                     <div class="help-block with-errors"></div>
-                  </div><div class="col-md-6 form-group">
-                    <input
-                      type="email"
-                      placeholder="Telephone (Preferably WhatsApp Contact) "
+                  </div><div class="col-md-12 form-group">
+                    <textarea
+                      placeholder="Report challenges, testimonies and miracles"
                       class="form-control"
-                      name="email"
+                      name="report"
                       
                       required
-                    />
+                    ></textarea>
                     <div class="help-block with-errors"></div>
                   </div>
 				  
-				  <div class="col-md-6 form-group">
-                    <input
-                      type="email"
-                      placeholder="Profession/Training "
-                      class="form-control"
-                      name="email"
-                      
-                      required
-                    />
-                    <div class="help-block with-errors"></div>
-                  </div>
-				  
-				    </h2>
+			</h2>
 				  <hr width="100%" height="5px">
-				   <style>div.b {
-  text-align: left;
-}
-
-</style><div class="b">
+<style>
+    div.b {
+    text-align: left;
+    }
+</style>
+            <!-- <div class="b">
 				<div class="col-md-12 form-group">
                     <label for="cars">Learning Option</label>
+                    <select name="cars" class="description"   >
 
-<select name="cars" class="description"   >
-
-  <option value="volvo">On-Campus (the Diploma Program)</option>
-  <option value="saab">Online (Certificate of Participation)</option>
- 
-</select>
+                    <option value="volvo">On-Campus (the Diploma Program)</option>
+                    <option value="saab">Online (Certificate of Participation)</option>
+                    
+                    </select>
                     <div class="help-block with-errors"></div>
-                  </div>
-				  
-				  </div>
+                </div>
+		    </div> -->
+            <div class="alert alert-success alert-dismissible fade show d-flex align-items-center" role="alert" id="log-alart">
+                <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Success:"><use xlink:href="#check-circle-fill"/></svg>
+                <div style="margin-left:10px">
+                    An example success alert with an icon
+                </div>
+            </div>
 				
-                  <button type="submit" class="btn-fill style-1">
-                     Proceed with Application
-                    </button>
+                  <button type="submit" class="btn-fill">SUBMIT</button>
               
                 </div>
                 <div class="form-response"></div>
@@ -297,7 +285,7 @@ A training program that is both spiritually imparting and intellectual.<hr width
       <!--=====================================-->
     </div>
     <!-- Modal Start -->
-    <!-- <div class="modal fade" id="myModal" tabindex="-1" aria-hidden="true"> 
+    <div class="modal fade" id="myModal" tabindex="-1" aria-hidden="true"> 
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
                 <div class="modal-header">
@@ -307,21 +295,22 @@ A training program that is both spiritually imparting and intellectual.<hr width
                 </div>
                 <div class="modal-body">
                     <div class="content-box">
-                        <div class="sub-title">Get Our New Free Course</div>
-                        <h2 class="title">Awesome for Website</h2>
-                        <form>
+                        <div class="sub-title">Sigin to enter logs</div>
+                        <h2 class="title">Adullam Practicum LogBook</h2>
+                        <form id="signin">
                             <input type="email" name="email" class="form-control" placeholder="E-mail address">
-                            <input type="submit" class="submit-btn" name="subscribe-btn" value="DOWNLOAD NOW">
+                            <input type="password" name="password" class="form-control" placeholder="Password">
+                            <input type="submit" class="submit-btn" name="subscribe-btn" value="SIGN IN">
                         </form>
                         <p class="description"><i class="fas fa-lock"></i>Your infomation will never be shared with any third party</p>
                     </div>
                     <div class="figure-box">
-                        <img src="media/banner/banner14.png" alt="Banner" width="298" height="543">
+                        <img src="media/banner/banner11.png" alt="Banner" width="298" height="543">
                     </div>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <!-- Modal End -->
 
     <script src="dependencies/jquery/jquery.min.js"></script>

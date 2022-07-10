@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  phpdev:
+    restart: unless-stopped
+    image: school-erp
+    container_name: cave-website
+    volumes:
+      - ./:/var/www/html
+    ports:
+      - 80:3000
