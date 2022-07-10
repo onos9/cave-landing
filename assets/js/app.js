@@ -455,61 +455,64 @@
 
     const signin = document.querySelector("form#signin");
     const logbook = document.querySelector("form#logbook");
-    signin.onsubmit = async (e) => {
-      e.preventDefault();
-      const formData = new FormData(document.forms.signin);
-      let data = {};
-      for (var key of formData.keys()) {
-        data = { ...data, [key]: formData.get(key) };
-      }
 
-      const rawResponse = await fetch(
-        "https://admin.adullam.ng/api/v1/auth/temp",
-        {
-          method: "POST",
-          headers: {
-            Accept: "application/json",
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(data),
+    if (!!logbook) {
+      signin.onsubmit = async (e) => {
+        e.preventDefault();
+        const formData = new FormData(document.forms.signin);
+        let data = {};
+        for (var key of formData.keys()) {
+          data = { ...data, [key]: formData.get(key) };
         }
-      );
-      const resp = await rawResponse.json();
-      console.log(resp);
 
-      if (resp?.login) {
-        localStorage.token = resp?.accessToken;
-        $("#myModal").modal("hide");
-      }
-    };
+        const rawResponse = await fetch(
+          "https://admin.adullam.ng/api/v1/auth/temp",
+          {
+            method: "POST",
+            headers: {
+              Accept: "application/json",
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(data),
+          }
+        );
+        const resp = await rawResponse.json();
+        console.log(resp);
 
-    logbook.onsubmit = async (e) => {
-      e.preventDefault();
-      const formData = new FormData(document.forms.logbook);
-      let data = {};
-      for (var key of formData.keys()) {
-        data = { ...data, [key]: formData.get(key) };
-      }
-
-      const rawResponse = await fetch(
-        "https://admin.adullam.ng/api/v1/logbook",
-        {
-          method: "POST",
-          headers: {
-            Authorization: "Bearer " + localStorage.token,
-            Accept: "application/json",
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(data),
+        if (resp?.login) {
+          localStorage.token = resp?.accessToken;
+          $("#myModal").modal("hide");
         }
-      );
-      const resp = await rawResponse.json();
-      console.log(resp);
+      };
 
-      if (rawResponse?.status == 403) {
-        $("#myModal").modal("show");
-      }
-    };
+      logbook.onsubmit = async (e) => {
+        e.preventDefault();
+        const formData = new FormData(document.forms.logbook);
+        let data = {};
+        for (var key of formData.keys()) {
+          data = { ...data, [key]: formData.get(key) };
+        }
+
+        const rawResponse = await fetch(
+          "https://admin.adullam.ng/api/v1/logbook",
+          {
+            method: "POST",
+            headers: {
+              Authorization: "Bearer " + localStorage.token,
+              Accept: "application/json",
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(data),
+          }
+        );
+        const resp = await rawResponse.json();
+        console.log(resp);
+
+        if (rawResponse?.status == 403) {
+          $("#myModal").modal("show");
+        }
+      };
+    }
 
     // Page Preloader
     $("#preloader").fadeOut("slow", function () {
