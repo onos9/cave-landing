@@ -37,6 +37,9 @@
                         <li class="menu-item">
                           <a href="tuition.php">Tuition Fees</a>
                         </li>
+                        <li class="menu-item">
+                          <a href="practicum.php">Practicum Log book</a>
+                        </li>
                   </ul>
                 </li>
                 <li class="list menu-item-parent menu-item-has-children">
