@@ -120,6 +120,30 @@
            <h2 class="">   
             <form id="logbook">
                 <div class="row">
+                  <h5 style="margin-bottom:0">Student Info</h5>
+				    <hr width="100%" height="2px">
+                    <div class="col-md-6 form-group">
+                    <input
+                      type="text"
+                      placeholder="Full Name"
+                      class="form-control"
+                      name="fullName"
+                      data-error="Name field is required"
+                      required
+                    />
+                    <div class="help-block with-errors"></div>
+                  </div>
+                  <div class="col-md-6 form-group">
+                    <input
+                      type="text"
+                      placeholder="Matric Number"
+                      class="form-control"
+                      name="matricNumber"
+                      data-error="Name field is required"
+                      required
+                    />
+                    <div class="help-block with-errors"></div>
+                  </div>
                     <h5 style="margin-bottom:0">Daily Tongues Exercise</h5>
 				    <hr width="100%" height="2px">
                     <div class="col-md-12 form-group">
@@ -212,7 +236,7 @@
                       type="text"
                       placeholder="Location"
                       class="form-control"
-                      name="lacation"
+                      name="location"
                       data-error="Name field is required"
                       required
                     />

@@ -466,7 +466,7 @@
         }
 
         const rawResponse = await fetch(
-          "https://admin.adullam.ng/api/v1/auth/temp",
+          "http://localhost:8000/api/v1/auth/temp",
           {
             method: "POST",
             headers: {
@@ -494,7 +494,7 @@
         }
 
         const rawResponse = await fetch(
-          "https://admin.adullam.ng/api/v1/logbook",
+          "http://localhost:8000/api/v1/logbook",
           {
             method: "POST",
             headers: {
