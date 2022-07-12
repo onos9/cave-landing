@@ -144,6 +144,14 @@
                     />
                     <div class="help-block with-errors"></div>
                   </div>
+                  <div class="col-md-12 form-group selectdiv">
+                      <select name="program" class="form-control">
+                        <option hidden>Select Program Option</option>
+                        <option value="Diploma">Diploma</option>
+                        <option value="PGDT">PGDT</option>
+                      </select>
+                      <div class="help-block with-errors"></div>
+                  </div>
                     <h5 style="margin-bottom:0">Daily Tongues Exercise</h5>
 				    <hr width="100%" height="2px">
                     <div class="col-md-12 form-group">

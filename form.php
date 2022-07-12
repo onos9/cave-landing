@@ -259,20 +259,21 @@ A training program that is both spiritually imparting and intellectual.<hr width
   text-align: left;
 }
 
-</style><div class="b">
-				<div class="col-md-12 form-group">
-                    <label for="cars">Learning Option</label>
+</style>
+        <div class="b">
+				    <div class="col-md-12 form-group">
+               <label for="cars">Learning Option</label>
 
-<select name="cars" class="description"   >
+              <select name="cars" class="description"   >
 
-  <option value="volvo">On-Campus (the Diploma Program)</option>
-  <option value="saab">Online (Certificate of Participation)</option>
- 
-</select>
+                <option value="volvo">On-Campus (the Diploma Program)</option>
+                <option value="saab">Online (Certificate of Participation)</option>
+              
+              </select>
                     <div class="help-block with-errors"></div>
                   </div>
 				  
-				  </div>
+				    </div>
 				
                   <button type="submit" class="btn-fill style-1">
                      Proceed with Application

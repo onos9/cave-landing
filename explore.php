@@ -132,14 +132,77 @@ colonization. Challenging realities on the field of Christian missions and the p
 resource to live triumphant in Kingdom enterprise are expounded. Moreover, the training equips
 the believer for Apostolic Invasions and Territorial Priesthood. 
                       </h5><hr>
-                     <strong><h4>There are two enrollment sessions annually:</h4></strong>
-                      <h6 class="description">
-                      The program duration is 2 semesters of four (4) months each for Campus Option, and Seven and a Half (7.5) months each for Online Option. Each of the semesters are schedule during the January or June sessions depending on the time of enrolment.
- <br><br><strong><h6><a href="handbook.pdf" target="_blank" >Download Student Handbok</a></h6></strong>
-                      </h6>
+                  <!--beginig of explore-->
+                      
+
+					 <h4 class="title"><strong>PGDT Course Listing</strong></h4>
+                     <h5 class="title"><strong>First Semesters</strong></h5>
+					 <h6 class="description">
+					    Systematic Theology 1<br>
+                        Intro to Old Testament Theology<br>
+                        Hermeneutics<br>
+                        Church History Survey<br>
+                        Biblical Foundations of Leadership<br>
+                        Academic Research and Writing<br>
+					 </h6>
+					 
+		            <h5 class="title"><strong>Second Semester</strong></h5>
+					<h6 class="description">			
+                        Systematic Theology 2<br>
+                        Intro to New Testament Theology<br>
+                        Homiletics<br>
+                        Introduction to Contemporary World Religions<br>
+                        Introduction to Philosophy<br>
+                        Academic Research and Writing 2<br>
+                        <hr>
+                    </h6>
+                
+                
+                
+               		 <h4 class="title"><strong>DIPLOMA Course Listing</strong></h4>
+                     <h5 class="title"><strong>Year One - First Semesters</strong></h5>
+					 <h6 class="description">
+					    Study Habits I<br>
+                        Communication Skills I<br>
+                        Introduction to Theological Studies I<br>
+                        Christian Home<br>
+                        Bible Survey I<br>
+                        Ministry Practicum I<br>
+					 </h6>
+					 
+		            <h5 class="title"><strong>Year One - Second Semester</strong></h5>
+					<h6 class="description">			
+                        Study Habits I<br>
+                        Communication Skills I<br>
+                        Introduction to Theological Studies I<br>
+                        Christian Home<br>
+                        Bible Survey I<br>
+                        Ministry Practicum I<br>
+                 
+                    </h6>
+                    
+                    <h5 class="title"><strong>Year Two - First Semesters</strong></h5>
+					 <h6 class="description">
+                        Study Habits<br>
+                        Introduction to Theological Studies II<br>
+                        Introduction to Biblical Hermeneutics<br>
+                        Principles of Christian Discipleship<br>
+                        Ministry Practicum III<br>
+					 </h6>
+					 
+		            <h5 class="title"><strong>Year Two - Second Semester</strong></h5>
+					<h6 class="description">			
+                        Introduction to Biblical Literature II<br>
+                        The Christian Faith in Relation to Other Faiths<br>
+                        Introduction to Biblical Exegesis<br>
+                        Principles of Christian Mentoring<br>
+                        Ministry Practicum IV<br>
+                
+                    </h6>
+
+                      <!--end of explor-->
                     </div>
                   </li>
-                 
                 </ul>
               </div>
             </div>

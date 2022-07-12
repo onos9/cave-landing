@@ -190,13 +190,13 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
 
                 </p>
 				<br><br><br>
-                <div class="btn-wrap">
-                  <a href="https://portal.adullam.ng" class="btn-fill style-1"
-                    >Enroll Now<i
-                      class="fas fa-long-arrow-alt-right"
-                    ></i
-                  ></a>
-                </div>
+                <!--<div class="btn-wrap">-->
+                <!--  <a href="https://portal.adullam.ng" class="btn-fill style-1"-->
+                <!--    >Enroll Now<i-->
+                <!--      class="fas fa-long-arrow-alt-right"-->
+                <!--    ></i-->
+                <!--  ></a>-->
+                <!--</div>-->
               </div>
             </div>
            <div class="swiper-slide">
@@ -228,13 +228,14 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
 environment that has an intense atmosphere of Heaven, accompanied with Spiritual impartations.
 </strong>
                 </p>
-                <br><br> <br>   <div class="btn-wrap">
-                  <a href="https://portal.adullam.ng" class="btn-fill style-1"
-                    >Enroll Now<i
-                      class="fas fa-long-arrow-alt-right"
-                    ></i
-                  ></a>
-                </div>
+                <br><br> <br>   
+                <!--<div class="btn-wrap">-->
+                <!--  <a href="https://portal.adullam.ng" class="btn-fill style-1"-->
+                <!--    >Enroll Now<i-->
+                <!--      class="fas fa-long-arrow-alt-right"-->
+                <!--    ></i-->
+                <!--  ></a>-->
+                <!--</div>-->
               </div>
             </div>
 			
@@ -426,7 +427,8 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
                       </div>
                       <h3 class="title"><strong>Financial Aid</strong></h3>
                       <h6 class="description">
-                      Get the RCN theological Seminary Financial aid.<br><a href="financialaid.php"> Apply Now </a>
+                      Get the RCN theological Seminary Financial aid.<br>
+                      <!--<a href="financialaid.php"> Apply Now </a>-->
                       </h6>
                     </div>
                   </div>
@@ -444,8 +446,9 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
 
 
 We establish believers in the foundations of Christian Faith. 
-                      </h6><p class="description">
-                     <a href="explore.php"> Apply Now </a>
+                      </h6>
+                      <p class="description">
+                     <a href="explore.php"> Read More </a>
                       </p>
                     </div>
                   </div>
@@ -458,7 +461,7 @@ We establish believers in the foundations of Christian Faith.
                       </div>
                       <h3 class="title"><strong>Admission</strong> </h3>
                       <h6 class="description">
-                 Adullam Postgraduate Diploma in Theology (PGDT) .<a href='pgdt.php'>Click Here to Apply</a>
+                 Adullam Postgraduate Diploma in Theology (PGDT) .<a href='https://docs.google.com/forms/d/e/1FAIpQLSc7Uom_GOtQeseHrOpV9d7gxhhxOhl7I1DHeOT6YeYyIz74Cw/viewform?usp=sf_link'>Click Here to Apply</a>
                       </h6>
                     </div>
                   </div>
@@ -471,7 +474,7 @@ We establish believers in the foundations of Christian Faith.
                       </div>
                       <h3 class="title"><strong>Student Portal</strong></h3>
                       <h6 class="description">
-                      Already a student? <a href="">Proceed to student control panel. </a>
+                      Already a student? <a href="https://seminary.adullam.ng/main/login_form.php">Proceed to student control panel. </a>
                       </h6>
                     </div>
                   </div>
@@ -975,20 +978,20 @@ has now become something I enjoy doing.
                   <p class="description">
                    
                   </p>
-                  <div class="btn-wrap">
-                    <a href="apply.php" class="item-btn btn-fill"
-                      >Apply  Now</a
-                    >
-                    <img
-                      class="wow animated fadeInRight"
-                      data-wow-duration="1s"
-                      data-wow-delay="0.6s"
-                      src="media/elements/element63.png"
-                      alt="Elemet"
-                      width="62"
-                      height="55"
-                    />
-                  </div>
+                  <!--<div class="btn-wrap">-->
+                  <!--  <a href="apply.php" class="item-btn btn-fill"-->
+                  <!--    >Apply  Now</a-->
+                  <!--  >-->
+                  <!--  <img-->
+                  <!--    class="wow animated fadeInRight"-->
+                  <!--    data-wow-duration="1s"-->
+                  <!--    data-wow-delay="0.6s"-->
+                  <!--    src="media/elements/element63.png"-->
+                  <!--    alt="Elemet"-->
+                  <!--    width="62"-->
+                  <!--    height="55"-->
+                  <!--  />-->
+                  <!--</div>-->
                 </div>
               </div>
             </div>

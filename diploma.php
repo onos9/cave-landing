@@ -156,7 +156,7 @@ On campus program fees</strong>
 Fees Fees: $1000 PER SEMESTER 
 Graduation Fee - $20 
 Transcript - $20
-     <br><br>    <a href="financialaid.php" class="btn btn-block btn-lg btn-primary">Get Financial Aid</a>    </h6>
+     <br><br>    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8mHpLTs5bnv0WxgSZH6oL9vCHrDEv8U5V2phFzmWWsun9-A/viewform?usp=sf_link" class="btn btn-block btn-lg btn-primary">Apply Now</a>    </h6>
                      
                     </div>
                   </li>
