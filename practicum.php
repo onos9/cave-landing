@@ -115,7 +115,7 @@
             <div class="inner">
 
               <h2 class="title">Practicum Log book</h2>
-              <p class="description">For old student in diploma please go <a href="#">here</a></p>
+              <p class="description">Enter youre practicum logs here for review</p>
                
            <h2 class="">   
             <form id="logbook">
@@ -289,14 +289,15 @@
                     <div class="help-block with-errors"></div>
                 </div>
 		    </div> -->
-            <div class="alert alert-success alert-dismissible fade show d-flex align-items-center" role="alert" id="log-alart">
-                <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Success:"><use xlink:href="#check-circle-fill"/></svg>
-                <div style="margin-left:10px">
-                    An example success alert with an icon
+            <div class="alert alert-success align-items-center" role="alert" id="log-alart">
+              <div class="row">
+                <svg class="bi col-md-2" width="24" height="24" role="img" aria-label="Success:"><use xlink:href="#check-circle-fill"/></svg>
+                <div class="col-md-10">
+                  Saved successfully
                 </div>
+              </div>
             </div>
-				
-                  <button type="submit" class="btn-fill">SUBMIT</button>
+				    <button type="submit" class="btn-fill">SAVE</button>
               
                 </div>
                 <div class="form-response"></div>

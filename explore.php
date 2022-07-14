@@ -5,7 +5,7 @@
     <!-- Meta Data -->
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Adullam - Explore Programs |RCN Bible Seminary</title>
+    <title>Adullam - Explore Programs | RCN Bible Seminary</title>
     <meta name="description" content="" />
     <meta
       name="viewport"

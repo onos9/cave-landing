@@ -447,8 +447,13 @@
         wow.init();
       });
 
-    $("#log-alart").alert("close");
-    $("#log-alart").alert("open");
+    $("#log-alart").hide();
+
+    // $("#log-alart").fadeIn("slow", function () {
+    //   setTimeout(function () {
+    //     $(".alert").fadeOut("slow");
+    //   }, 4000);
+    // });
 
     // Modal
     if (!localStorage.token) $("#myModal").modal("show");
@@ -511,6 +516,12 @@
         if (rawResponse?.status == 403) {
           $("#myModal").modal("show");
         }
+
+        $("#log-alart").fadeIn("slow", function () {
+          setTimeout(function () {
+            $(".alert").fadeOut("slow");
+          }, 4000);
+        });
       };
     }
 

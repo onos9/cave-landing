@@ -38,7 +38,7 @@
                           <a href="tuition.php">Tuition Fees</a>
                         </li>
                         <li class="menu-item">
-                          <a href="practicum.php">Practicum Log book</a>
+                          <a href="https://admin.adullam.ng/#/platform/practicum">Practicum Log book</a>
                         </li>
                   </ul>
                 </li>
