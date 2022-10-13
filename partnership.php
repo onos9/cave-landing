@@ -132,72 +132,47 @@ We, therefore, call on like-minded partners to support us financially that we ma
                      <strong><h4>Donation in Pounds</h4></strong>  <hr>
                       <h6 class="description">
 
-Correspondent Bank: Citibank London<br>
-
-Swift Code: CITIGB2L<br>
-
-For Credit To: United Bank for Africa Plc<br>
-
-Account No: 13664090<br>
-
-SWIFT CODE: UNAFNGLA<br>
-
-For Final Credit to: Remnant Christian Network Bible Seminary Adullam.<br>
-
-Beneficiary Account No: 3003413095 <br>
+Beneficiary bank: Access Bank Plc<br>
+Account Name: Remnant Christian Network Theological Seminary - Adullam<br>
+Account No: 1667594370<br>
+Banks Swift code: ABNGNGLA<br>
+Beneficiary banks IBAN NO: GB27CITI18500811071211<br>
+Intermediary Bank Swift code: CITIGB2L<br>
+Sort code: 185008<br>
                       </h6>
 					  <hr>
                      <strong><h4>Donation in Dollar</h4></strong>
                        <hr> <h6 class="description">
 
-
-Correspondent Bank: Citibank New York<br>
-
-Swift Code: CITIUS33<br>
-
-Routing or ABA No: 021000089<br>
-
-For Credit To: United Bank for Africa Plc<br>
-
-Account No: 36320321<br>
-
+Beneficiary bank: Access Bank Plc<br>
+Account Name: Remnant Christian Network Theological Seminary - Adullam<br>
+Account No: 1665250883<br>
+Swift Code: ABNGNGLA<br>
+Routing Number: 021000089<br>
 SWIFT CODE: UNAFNGLA<br>
-
-For Final Credit to: Remnant Christian Network Bible Seminary Adullam.<br>
-
-Beneficiary Account No: 3003413033<br>
+Intermediary bank: Citibank...CITIUS33<br>
                       </h6>
 					   <hr>
                      <strong><h4>Donation in Euro</h4></strong>
                        <hr> <h6 class="description">
 
-
-Correspondent Bank: Citibank London<br>
-
-Swift Code: CITIGB2L<br>
-
-Sort Code: 18 50 08<br>
-
-For Credit To: United Bank for Africa Plc<br>
-
-IBAN: GB29CITI18500813664082<br>
-
-Account No: 13664082<br>
-
+Beneficiary bank: Access Bank Plc<br>
+Account Name: Remnant Christian Network Theological Seminary - Adullam<br>
+Account No: 1664879355<br>
+Banks Swift code: ABNGNGLA<br>
+Beneficiary banks IBAN NO: GB74CITI18500811071238<br>
+Intermediary Bank Swift code: CITIGB2L<br>
 SWIFT CODE: UNAFNGLA<br>
-
-For Final Credit to: Remnant Christian Network Bible Seminary Adullam.<br>
-
-Beneficiary Account No: 300341308<br>
+Sort code: 185008<br>
                       </h6>
 					   <hr>
                      <strong><h4>Donation in Naira</h4></strong>
                        <hr> <h6 class="description">
-Account Name:Remnant Christian Network Bible Seminary Adullam<br>
+                        
+Bank Name: Access Bank Plc<br>
+Account Name: Remnant Christian Network Theological Seminary - Adullam<br>
 
-Account Number: 1024318850<br>
-
-Bank Name: United Bank for Africa<br><br>
+Account Number: 1652191540<br><br>
                       </h6><hr>
                      <strong><h4>Donation in Crypto Currency</h4></strong>
                        <hr> <h6 class="description">

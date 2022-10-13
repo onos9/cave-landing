@@ -147,6 +147,7 @@ Online Option: 15 months<br>
 -	A minimum of a Bachelor’s degree or its equivalent<br>
 -	Official transcripts for highest earned degree and any master’s degree work<br>
 -	Two referees
+- All International students that wish to learn On-Campus are required to apply for and secure a student visa for the duration of their study in the Nigerian Embassy in their country before travelling in
        <hr>     
 <strong>Tuition Fees</strong><br>
 <strong>On campus program fees</strong>

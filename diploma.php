@@ -144,6 +144,7 @@ We offer two program options:<br>
 -	A completed Application form (available online)<br>
 -	A minimum of a Secondary School Certificate or its equivalent<br>
 -	Two referees
+- All International students that wish to learn On-Campus are required to apply for and secure a student visa for the duration of their study in the Nigerian Embassy in their country before travelling in
 <br><hr>
 
 <strong>Tuition Fees</strong><br>
