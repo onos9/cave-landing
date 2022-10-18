@@ -117,12 +117,10 @@
               <div class="sub-title">Diploma Program</div>
               <h2 class="title">Diploma Program</h2>
             </div>
-           
                   <li>
                    
                     <div class="content-box"> 
 					<h5 class="description">
- 
  
 <strong>WHAT YOU WILL LEARN</strong><br>
 
