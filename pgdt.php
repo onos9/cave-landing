@@ -128,8 +128,7 @@
 - Develop foundational understanding of Biblical Truth<br>
 - Develop contemporary strategies for effective Ministry within various contexts<br>
 - How to engage in high-level, publishable critical research, analysis, and writing about theology and its related discipline<br>
-
-         <hr>             </h5>
+<hr>             </h5>
 		  <h4 class="title">PROGRAM OPTION</h4><br>
 		 <h6 class="description">
 
