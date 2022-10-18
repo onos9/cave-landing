@@ -156,7 +156,7 @@ Provost Scholarship Grant Available - The Provost Scholarship Grant available co
 </strong>
 <br>
 
-<strong>On campus program fees</strong>
+<strong>On campus program fees</strong><br>
 Tuition - $1000 PER SEMESTER (with 4 Semesters) <br>
 Health Insurance - $20 <br>
 Hostel Accommodation - $80 per annum (Optional) <br>

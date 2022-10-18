@@ -157,7 +157,7 @@ Transcript - $25<br>
 <strong>Provost Scholarship Grant Available - The Provost Scholarship Grant available covers only 85% of the Tuition
 NB. If you desire to benefit from the scholarship, please indicate interest in the Scholarship Section made available while you fill the application form for your respective program</strong><br>
 
-<strong>Online program fees</strong>
+<strong>Online program fees</strong>><br>
 Tuition Fees -  $2016 PER SEMESTER ($112 per credit Unit ) <br>
 Graduation Fee - $20 <br>
 Transcript - $25<br>
