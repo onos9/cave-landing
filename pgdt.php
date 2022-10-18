@@ -154,21 +154,23 @@ Tuition Fees - $2016 PER SEMESTER ($112 per credit unit)<br>
 Graduation Fee - $20<br>
 Transcript - $25<br>
 Provost Scholarship Grant Available - The Provost Scholarship Grant available covers only 85% of the Tuition <br>
+<hr>
 <strong>
 NB. If you desire to benefit from the scholarship, please indicate interest in the Scholarship Section made available while you fill the application form for your respective program
-</strong><br><br>
-
+</strong>
+<hr>
+<br>
 <strong>Online program fees</strong>><br>
 Tuition Fees -  $2016 PER SEMESTER ($112 per credit Unit ) <br>
 Graduation Fee - $20 <br>
 Transcript - $25<br>
 Provost Scholarship Grant Available - The Provost Scholarship Grant available covers only 91% of the Tuition <br>
-
+<hr>
 <strong>
 NB. If you desire to benefit from the scholarship, please indicate interest in the Scholarship Section made available while you fill the application form for your respective program
-</strong><br><br>
-                     
-        </h6>   <br><br>    <a href="https://docs.google.com/forms/d/e/1FAIpQLSc7Uom_GOtQeseHrOpV9d7gxhhxOhl7I1DHeOT6YeYyIz74Cw/viewform?usp=sf_link" class="btn btn-block btn-lg btn-primary">Apply Now</a>            </div>
+</strong>
+<hr>         
+          <br><br>    <a href="https://docs.google.com/forms/d/e/1FAIpQLSc7Uom_GOtQeseHrOpV9d7gxhhxOhl7I1DHeOT6YeYyIz74Cw/viewform?usp=sf_link" class="btn btn-block btn-lg btn-primary">Apply Now</a> </h6>            </div>
                   </li>
                  
                 </ul>
