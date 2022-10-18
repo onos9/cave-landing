@@ -138,8 +138,8 @@ We offer two program options:<br>
 <strong>-	Online:</strong> The Online program was created in response to the global needs for spiritual training and equipping of those who cannot make it for the residency On-Campus option. Although designed to be still engaging and impactful, its duration is extended more than the On-Campus option, and compatible for the work and family demands of everyday life.
 <br>
 <strong>PROGRAM LENGTH</strong><br>
-Campus option: 9 months<br>
-Online Option: 15 months<br>
+Campus option: 9 months (with two semesters)<br>
+Online Option: 15 months (with two semesters)<br>
 
 <strong>ADMISSION REQUIREMENTS</strong><br>
 -	A $10 non-refundable application fee<br>
@@ -151,13 +151,18 @@ Online Option: 15 months<br>
        <hr>     
 <strong>Tuition Fees</strong><br>
 <strong>On campus program fees</strong>
-Tuition Fees - $2016 PER SEMESTER ($112 per credit unit) 
-Graduation Fee - $20 
+Tuition Fees - $2016 PER SEMESTER ($112 per credit unit)<br> 
+Graduation Fee - $20<br>
 Transcript - $25<br>
+<strong>Provost Scholarship Grant Available - The Provost Scholarship Grant available covers only 85% of the Tuition
+NB. If you desire to benefit from the scholarship, please indicate interest in the Scholarship Section made available while you fill the application form for your respective program</strong><br>
+
 <strong>Online program fees</strong>
-Tuition Fees -  $2016 PER SEMESTER ($112 per credit Unit ) 
-Graduation Fee - $20 
-Transcript - $25
+Tuition Fees -  $2016 PER SEMESTER ($112 per credit Unit ) <br>
+Graduation Fee - $20 <br>
+Transcript - $25<br>
+<strong>Provost Scholarship Grant Available - The Provost Scholarship Grant available covers only 91% of the Tuition
+NB. If you desire to benefit from the scholarship, please indicate interest in the Scholarship Section made available while you fill the application form for your respective program</strong><br>
                      
         </h6>   <br><br>    <a href="https://docs.google.com/forms/d/e/1FAIpQLSc7Uom_GOtQeseHrOpV9d7gxhhxOhl7I1DHeOT6YeYyIz74Cw/viewform?usp=sf_link" class="btn btn-block btn-lg btn-primary">Apply Now</a>            </div>
                   </li>

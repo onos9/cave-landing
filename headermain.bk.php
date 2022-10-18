@@ -51,7 +51,7 @@
                           <a href="https://portal.adullam.ng">Apply Now</a>
                         </li>
                         <li class="menu-item">
-                          <a href="financialaid.php">Financial Aid </a>
+                          <a href="financialaid.php">Scholarship</a>
                         </li>
                         
 						 <li class="menu-item">

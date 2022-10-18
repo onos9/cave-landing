@@ -273,7 +273,7 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
                   </div>
                   <div class="bottom-content">
                     <h5 class="description">
-                  The Diploma program will establish believers in the foundation of the Christian Faith.<br><br>
+                  The Diploma in Theology Program will establish believers in the foundation of the Christian Faith.<br><br>
 
                     </h5>
                     <a href="diploma.php" class="item-btn btn-fill style-2"
@@ -302,7 +302,7 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
                   </div>
                   <div class="bottom-content">
                       <h5 class="description">
-                  The Post graduate diploma training will develop you in foundational understanding of Biblical Truth.<br><br>
+                  The Postgraduate Diploma in Theology Program will develop you in foundational understanding of Biblical Truth.<br><br>
 
                     </h5>
                     <a href="pgdt.php" class="item-btn btn-fill style-2"
@@ -425,10 +425,10 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
                       <div class="icon-box">
                         <i class="flaticon-teacher-giving-lecture"></i>
                       </div>
-                      <h3 class="title"><strong>Financial Aid</strong></h3>
+                      <h3 class="title"><strong>Scholarship</strong></h3>
                       <h6 class="description">
-                      Get the RCN theological Seminary Financial aid.<br>
-                      <!--<a href="financialaid.php"> Apply Now </a>-->
+                      Get the RCN theological Seminary Scholarship.<br>
+                      <a href="financialaid.php"> Read More </a>
                       </h6>
                     </div>
                   </div>
