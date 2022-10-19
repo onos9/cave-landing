@@ -183,7 +183,7 @@
               <div class="container text-center">
              <h1 class=""  style="color:white;">
 				
-			<strong>RCN Theological Seminary.</strong></h1>
+			<strong>RCN Theological Seminary - Adullam</strong></h1>
                 <h4 style="color:white;" >
                  Adullam is designed with a learning
 environment that has an intense atmosphere of Heaven, accompanied with Spiritual impartations.
