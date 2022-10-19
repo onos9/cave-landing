@@ -172,7 +172,7 @@ Provost Scholarship Grant Available - The Provost Scholarship Grant available co
 </strong>
 <hr>
 <br>
-     <br><br>    <a href="https://admin.adullam.ng/platform/sign-up/register" class="btn btn-block btn-lg btn-primary">Apply Now</a>    </h6>
+     <br><br>    <a href="https://admin.adullam.ng/platform/sign-in/register" class="btn btn-block btn-lg btn-primary">Apply Now</a>    </h6>
                      
                     </div>
                   </li>

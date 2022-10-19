@@ -165,7 +165,6 @@ As you consider the cost of pursuing your Adullam education, keep in mind that m
                         <h3 class="title">Scholarship Availability and Accessibility</h3>
                         <h6 class="description">
                           Scholarship grants are made available through the generous donations of kind partners, and it is accessible upon request for those who truly believe that they cannot afford the fees but subject to availability of funds and the decision of the Scholarship Grants Board.
-
                         </h6>
                       </div>
                     </li>
