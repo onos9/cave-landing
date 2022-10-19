@@ -149,11 +149,11 @@ As you consider the cost of pursuing your Adullam education, keep in mind that m
                         <h3 class="title"> 80-91% Scholarship Grant</h3>
                         <h6 class="description">
 						<br><strong>Diploma in Theology (DIPLOMA)</strong><br>
-                       85% of Tuition for Online Students
-91% of Tuition for On Campus Students<br> <hr>
+                       - 80% of Tuition for Online Students<br>
+                       - 87.5% of Tuition for On Campus Students<br> <hr>
 <strong>Post Graduate Diploma in Theology (PGDT)</strong><br>
-	80% of Tuition for Online Students<br>
-87.5% of Tuition for On Campus Students
+	- 85% of Tuition for Online Students<br>
+  - 91% of Tuition for On Campus Students
                         </h6>
                       </div>
                     </li>

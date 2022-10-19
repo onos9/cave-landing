@@ -150,7 +150,7 @@ We offer two program options:<br>
 Tuition - $1000 PER SEMESTER (with 4 Semesters <br>
 Graduation Fee - $20 <br>
 Transcript - $20<br>
-Provost Scholarship Grant Available - The Provost Scholarship Grant available covers only 91% of the Tuition <br>
+Provost Scholarship Grant Available - The Provost Scholarship Grant available covers only 80% of the Tuition <br>
 <hr>
 <strong>
   NB. If you desire to benefit from the scholarship, please indicate interest in the Scholarship Section made available while you fill the application form for your respective program
@@ -172,7 +172,7 @@ Provost Scholarship Grant Available - The Provost Scholarship Grant available co
 </strong>
 <hr>
 <br>
-     <br><br>    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8mHpLTs5bnv0WxgSZH6oL9vCHrDEv8U5V2phFzmWWsun9-A/viewform?usp=sf_link" class="btn btn-block btn-lg btn-primary">Apply Now</a>    </h6>
+     <br><br>    <a href="https://admin.adullam.ng/platform/sign-up/register" class="btn btn-block btn-lg btn-primary">Apply Now</a>    </h6>
                      
                     </div>
                   </li>

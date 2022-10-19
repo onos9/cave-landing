@@ -191,7 +191,7 @@ environment that has an intense atmosphere of Heaven, accompanied with Spiritual
                 </p>
 				<br><br><br>
                 <!--<div class="btn-wrap">-->
-                <!--  <a href="https://portal.adullam.ng" class="btn-fill style-1"-->
+                <!--  <a href="https://admin.adullam.ng/platform/sign-up/register" class="btn-fill style-1"-->
                 <!--    >Enroll Now<i-->
                 <!--      class="fas fa-long-arrow-alt-right"-->
                 <!--    ></i-->
@@ -461,7 +461,8 @@ We establish believers in the foundations of Christian Faith.
                       </div>
                       <h3 class="title"><strong>Admission</strong> </h3>
                       <h6 class="description">
-                 Adullam Postgraduate Diploma in Theology (PGDT) .<a href='https://docs.google.com/forms/d/e/1FAIpQLSc7Uom_GOtQeseHrOpV9d7gxhhxOhl7I1DHeOT6YeYyIz74Cw/viewform?usp=sf_link'>Click Here to Apply</a>
+                 Adullam Postgraduate Diploma in Theology (PGDT) .
+                 <!-- <a href='https://adullam.ng/diploma.php'>Click Here to Apply</a> -->
                       </h6>
                     </div>
                   </div>
