@@ -145,8 +145,8 @@ We offer two program options:<br>
 - All International students that wish to learn On-Campus are required to apply for and secure a student visa for the duration of their study in the Nigerian Embassy in their country before travelling in
 <br><hr>
 
-<strong>Tuition Fees</strong><br>
-<strong>Online program fees</strong>
+<strong>Fees</strong><br>
+<strong>Online program fees</strong><br>
 Tuition - $1000 PER SEMESTER (with 4 Semesters <br>
 Graduation Fee - $20 <br>
 Transcript - $20<br>
