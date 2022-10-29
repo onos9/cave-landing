@@ -104,7 +104,7 @@
       <section class="about-wrap-style-6 motion-effects-wrap">
         <div class="container">
           <div class="section-heading style-12">
-            <div class="sub-title">RCN theology missionary school</div>
+            <div class="sub-title">RCN Theological Seminary - Adullam</div>
             <h2 class="title">
             About Adullam
             </h2>
@@ -320,7 +320,7 @@ given up on life resorted to David to find meaning (1Sam. 22:1-2). <br>Adullam b
 charlatans are turned into champions, the PLACE, both for the apprentice and the veteran, and a
 retreat center for refreshing and retooling (2Sam.23:13-17). It was called “the glory of Israel”
 (Micah 1:15).<br><br>
-The RCN Bible Seminary– Adullam, is a ministry training program designed with a learning
+The RCN Theological Seminary - Adullam, is a ministry training program designed with a learning
 environment that has an intense atmosphere of Heaven, accompanied with Spiritual impartations.
 It is a training and equipping that is imparting, intellectual, and rigorous. <br>A program characteristic
 of an academic rigor alongside a high spiritual engagement. </h5>

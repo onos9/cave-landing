@@ -515,7 +515,7 @@ We establish believers in the foundations of Christian Faith.
             <section class="team-wrap-style-1">
         <div class="container">
           <div class="section-heading style-1">
-            <h2 class="title">RCN Seminary Administration.</h2>
+            <h2 class="title">Seminary Administration.</h2>
           </div>
           <div class="row">
             <div
@@ -536,7 +536,7 @@ We establish believers in the foundations of Christian Faith.
                   <h3 class="title">
                     <a href="profile.html">Apostle. Arome Osayi</a>
                   </h3>
-                  <h6 class="sub-title">Chairman, RCN Seminary</h6>
+                  <h6 class="sub-title">Chairman</h6>
                   <ul class="social inline-list">
                     <li>
                       <a href="javascript:void(0);"
@@ -580,7 +580,7 @@ We establish believers in the foundations of Christian Faith.
                   <h5 class="title">
                     <a href="profile.html">Rev. Daniel Ogidi</a>
                   </h5>
-                  <h6 class="sub-title">Provost, RCN Seminary</h6>
+                  <h6 class="sub-title">Provost</h6>
                   <ul class="social inline-list">
                     <li>
                       <a href="javascript:void(0);"

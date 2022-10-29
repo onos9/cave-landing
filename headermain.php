@@ -10,7 +10,7 @@
                       <ul class="sub-menu">
 					  
 					  <li class="menu-item">
-                          <a href="about.php">About RCN Missionary School</a>
+                          <a href="about.php">About Adullam</a>
                         </li>
                         <li class="menu-item">
                           <a href="vision.php">Vision & Mission</a>
@@ -65,7 +65,7 @@
                     </li>
                     
                     <li class="menu-item menu-item-has-children">
-                      <a href="">Life at RCN theology</a>
+                      <a href="">Life at Adullam</a>
                       <ul class="sub-menu">
                         
                         <li class="menu-item">

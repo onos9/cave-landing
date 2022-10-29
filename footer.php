@@ -15,7 +15,7 @@
 			  
 			
                 <div class="footer-copyright">
-                  © 2022 - 2023 <span>Adullam - RCN Bible Seminary |</span> All Rights Reserved by
+                  © 2022 - 2023 <span>RCN Theological Seminary - Adullam |</span> All Rights Reserved
                   <a href="" rel="nofollow"
                     ></a
                   >
