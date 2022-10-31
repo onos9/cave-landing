@@ -93,7 +93,7 @@
      <section class="about-wrap-style-6 motion-effects-wrap">
         <div class="container">
           <div class="section-heading style-12">
-            <div class="sub-title"> RCN Theological Seminary - Adullam</div>
+            <div class="sub-title">RCN Theological Seminary - Adullam</div>
             <h2 class="title">
          The Chapel.
             </h2>
