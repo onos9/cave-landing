@@ -170,7 +170,7 @@ Provost Scholarship Grant Available - The Provost Scholarship Grant available co
 NB. If you desire to benefit from the scholarship, please indicate interest in the Scholarship Section made available while you fill the application form for your respective program
 </strong>
 <hr>         
-          <br><br>    <a href="https://admin.adullam.ng/platform/sign-in/register" class="btn btn-block btn-lg btn-primary">Apply Now</a> </h6>            </div>
+          <br><br>    <a href="https://portal.adullam.ng/signup/register" class="btn btn-block btn-lg btn-primary">Apply Now</a> </h6>            </div>
                   </li>
                  
                 </ul>
