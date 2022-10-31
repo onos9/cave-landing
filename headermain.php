@@ -48,7 +48,7 @@
                       <a href="">Admissions</a>
                       <ul class="sub-menu">
                         <li class="menu-item">
-                          <a href="https://admin.adullam.ng/platform/sign-in/register">Apply Now</a>
+                          <a href="https://portal.adullam.ng/signup/register">Apply Now</a>
                         </li>
                         <li class="menu-item">
                           <a href="financialaid.php">Scholarship</a>
